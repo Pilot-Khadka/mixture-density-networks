@@ -1,0 +1,29 @@
+model:
+  input_dim: 8
+  hidden_dims: [256, 512, 512, 256]
+  output_dim: 3
+  n_gaussians: 5
+  dropout: 0.1
+
+training:
+  dataset_root: "rlbench_kinematics_dataset"
+  predict_orientation: false
+  batch_size: 512
+  num_epochs: 100
+  learning_rate: 0.001
+  weight_decay: 0.00001
+  checkpoint_dir: "checkpoints_mdn"
+  test_after_training: true
+
+optimizer:
+  type: "AdamW"
+  scheduler:
+    type: "ReduceLROnPlateau"
+    mode: "min"
+    factor: 0.5
+    patience: 5
+
+dataloader:
+  num_workers: 4
+  pin_memory: true
+  train_split: 0.8
