@@ -1,0 +1,956 @@
+{
+  "task_name": "ReachTarget",
+  "num_trials": 50,
+  "trials": [
+    {
+      "trial": 0,
+      "joint_angles_file": "trial_000_joint_angles.npy",
+      "cartesian_file": "trial_000_cartesian.npy",
+      "num_steps": 39,
+      "joint_angles_shape": [
+        39,
+        8
+      ],
+      "cartesian_shape": [
+        39,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 1,
+      "joint_angles_file": "trial_001_joint_angles.npy",
+      "cartesian_file": "trial_001_cartesian.npy",
+      "num_steps": 36,
+      "joint_angles_shape": [
+        36,
+        8
+      ],
+      "cartesian_shape": [
+        36,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 2,
+      "joint_angles_file": "trial_002_joint_angles.npy",
+      "cartesian_file": "trial_002_cartesian.npy",
+      "num_steps": 31,
+      "joint_angles_shape": [
+        31,
+        8
+      ],
+      "cartesian_shape": [
+        31,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 3,
+      "joint_angles_file": "trial_003_joint_angles.npy",
+      "cartesian_file": "trial_003_cartesian.npy",
+      "num_steps": 54,
+      "joint_angles_shape": [
+        54,
+        8
+      ],
+      "cartesian_shape": [
+        54,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 4,
+      "joint_angles_file": "trial_004_joint_angles.npy",
+      "cartesian_file": "trial_004_cartesian.npy",
+      "num_steps": 48,
+      "joint_angles_shape": [
+        48,
+        8
+      ],
+      "cartesian_shape": [
+        48,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 5,
+      "joint_angles_file": "trial_005_joint_angles.npy",
+      "cartesian_file": "trial_005_cartesian.npy",
+      "num_steps": 46,
+      "joint_angles_shape": [
+        46,
+        8
+      ],
+      "cartesian_shape": [
+        46,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 6,
+      "joint_angles_file": "trial_006_joint_angles.npy",
+      "cartesian_file": "trial_006_cartesian.npy",
+      "num_steps": 35,
+      "joint_angles_shape": [
+        35,
+        8
+      ],
+      "cartesian_shape": [
+        35,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 7,
+      "joint_angles_file": "trial_007_joint_angles.npy",
+      "cartesian_file": "trial_007_cartesian.npy",
+      "num_steps": 48,
+      "joint_angles_shape": [
+        48,
+        8
+      ],
+      "cartesian_shape": [
+        48,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 8,
+      "joint_angles_file": "trial_008_joint_angles.npy",
+      "cartesian_file": "trial_008_cartesian.npy",
+      "num_steps": 31,
+      "joint_angles_shape": [
+        31,
+        8
+      ],
+      "cartesian_shape": [
+        31,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 9,
+      "joint_angles_file": "trial_009_joint_angles.npy",
+      "cartesian_file": "trial_009_cartesian.npy",
+      "num_steps": 61,
+      "joint_angles_shape": [
+        61,
+        8
+      ],
+      "cartesian_shape": [
+        61,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 10,
+      "joint_angles_file": "trial_010_joint_angles.npy",
+      "cartesian_file": "trial_010_cartesian.npy",
+      "num_steps": 35,
+      "joint_angles_shape": [
+        35,
+        8
+      ],
+      "cartesian_shape": [
+        35,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 11,
+      "joint_angles_file": "trial_011_joint_angles.npy",
+      "cartesian_file": "trial_011_cartesian.npy",
+      "num_steps": 44,
+      "joint_angles_shape": [
+        44,
+        8
+      ],
+      "cartesian_shape": [
+        44,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 12,
+      "joint_angles_file": "trial_012_joint_angles.npy",
+      "cartesian_file": "trial_012_cartesian.npy",
+      "num_steps": 31,
+      "joint_angles_shape": [
+        31,
+        8
+      ],
+      "cartesian_shape": [
+        31,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 13,
+      "joint_angles_file": "trial_013_joint_angles.npy",
+      "cartesian_file": "trial_013_cartesian.npy",
+      "num_steps": 57,
+      "joint_angles_shape": [
+        57,
+        8
+      ],
+      "cartesian_shape": [
+        57,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 14,
+      "joint_angles_file": "trial_014_joint_angles.npy",
+      "cartesian_file": "trial_014_cartesian.npy",
+      "num_steps": 32,
+      "joint_angles_shape": [
+        32,
+        8
+      ],
+      "cartesian_shape": [
+        32,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 15,
+      "joint_angles_file": "trial_015_joint_angles.npy",
+      "cartesian_file": "trial_015_cartesian.npy",
+      "num_steps": 49,
+      "joint_angles_shape": [
+        49,
+        8
+      ],
+      "cartesian_shape": [
+        49,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 16,
+      "joint_angles_file": "trial_016_joint_angles.npy",
+      "cartesian_file": "trial_016_cartesian.npy",
+      "num_steps": 22,
+      "joint_angles_shape": [
+        22,
+        8
+      ],
+      "cartesian_shape": [
+        22,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 17,
+      "joint_angles_file": "trial_017_joint_angles.npy",
+      "cartesian_file": "trial_017_cartesian.npy",
+      "num_steps": 38,
+      "joint_angles_shape": [
+        38,
+        8
+      ],
+      "cartesian_shape": [
+        38,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 18,
+      "joint_angles_file": "trial_018_joint_angles.npy",
+      "cartesian_file": "trial_018_cartesian.npy",
+      "num_steps": 49,
+      "joint_angles_shape": [
+        49,
+        8
+      ],
+      "cartesian_shape": [
+        49,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 19,
+      "joint_angles_file": "trial_019_joint_angles.npy",
+      "cartesian_file": "trial_019_cartesian.npy",
+      "num_steps": 71,
+      "joint_angles_shape": [
+        71,
+        8
+      ],
+      "cartesian_shape": [
+        71,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 20,
+      "joint_angles_file": "trial_020_joint_angles.npy",
+      "cartesian_file": "trial_020_cartesian.npy",
+      "num_steps": 47,
+      "joint_angles_shape": [
+        47,
+        8
+      ],
+      "cartesian_shape": [
+        47,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 21,
+      "joint_angles_file": "trial_021_joint_angles.npy",
+      "cartesian_file": "trial_021_cartesian.npy",
+      "num_steps": 30,
+      "joint_angles_shape": [
+        30,
+        8
+      ],
+      "cartesian_shape": [
+        30,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 22,
+      "joint_angles_file": "trial_022_joint_angles.npy",
+      "cartesian_file": "trial_022_cartesian.npy",
+      "num_steps": 58,
+      "joint_angles_shape": [
+        58,
+        8
+      ],
+      "cartesian_shape": [
+        58,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 23,
+      "joint_angles_file": "trial_023_joint_angles.npy",
+      "cartesian_file": "trial_023_cartesian.npy",
+      "num_steps": 61,
+      "joint_angles_shape": [
+        61,
+        8
+      ],
+      "cartesian_shape": [
+        61,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 24,
+      "joint_angles_file": "trial_024_joint_angles.npy",
+      "cartesian_file": "trial_024_cartesian.npy",
+      "num_steps": 46,
+      "joint_angles_shape": [
+        46,
+        8
+      ],
+      "cartesian_shape": [
+        46,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 25,
+      "joint_angles_file": "trial_025_joint_angles.npy",
+      "cartesian_file": "trial_025_cartesian.npy",
+      "num_steps": 55,
+      "joint_angles_shape": [
+        55,
+        8
+      ],
+      "cartesian_shape": [
+        55,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 26,
+      "joint_angles_file": "trial_026_joint_angles.npy",
+      "cartesian_file": "trial_026_cartesian.npy",
+      "num_steps": 48,
+      "joint_angles_shape": [
+        48,
+        8
+      ],
+      "cartesian_shape": [
+        48,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 27,
+      "joint_angles_file": "trial_027_joint_angles.npy",
+      "cartesian_file": "trial_027_cartesian.npy",
+      "num_steps": 49,
+      "joint_angles_shape": [
+        49,
+        8
+      ],
+      "cartesian_shape": [
+        49,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 28,
+      "joint_angles_file": "trial_028_joint_angles.npy",
+      "cartesian_file": "trial_028_cartesian.npy",
+      "num_steps": 56,
+      "joint_angles_shape": [
+        56,
+        8
+      ],
+      "cartesian_shape": [
+        56,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 29,
+      "joint_angles_file": "trial_029_joint_angles.npy",
+      "cartesian_file": "trial_029_cartesian.npy",
+      "num_steps": 51,
+      "joint_angles_shape": [
+        51,
+        8
+      ],
+      "cartesian_shape": [
+        51,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 30,
+      "joint_angles_file": "trial_030_joint_angles.npy",
+      "cartesian_file": "trial_030_cartesian.npy",
+      "num_steps": 34,
+      "joint_angles_shape": [
+        34,
+        8
+      ],
+      "cartesian_shape": [
+        34,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 31,
+      "joint_angles_file": "trial_031_joint_angles.npy",
+      "cartesian_file": "trial_031_cartesian.npy",
+      "num_steps": 35,
+      "joint_angles_shape": [
+        35,
+        8
+      ],
+      "cartesian_shape": [
+        35,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 32,
+      "joint_angles_file": "trial_032_joint_angles.npy",
+      "cartesian_file": "trial_032_cartesian.npy",
+      "num_steps": 55,
+      "joint_angles_shape": [
+        55,
+        8
+      ],
+      "cartesian_shape": [
+        55,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 33,
+      "joint_angles_file": "trial_033_joint_angles.npy",
+      "cartesian_file": "trial_033_cartesian.npy",
+      "num_steps": 39,
+      "joint_angles_shape": [
+        39,
+        8
+      ],
+      "cartesian_shape": [
+        39,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 34,
+      "joint_angles_file": "trial_034_joint_angles.npy",
+      "cartesian_file": "trial_034_cartesian.npy",
+      "num_steps": 52,
+      "joint_angles_shape": [
+        52,
+        8
+      ],
+      "cartesian_shape": [
+        52,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 35,
+      "joint_angles_file": "trial_035_joint_angles.npy",
+      "cartesian_file": "trial_035_cartesian.npy",
+      "num_steps": 29,
+      "joint_angles_shape": [
+        29,
+        8
+      ],
+      "cartesian_shape": [
+        29,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 36,
+      "joint_angles_file": "trial_036_joint_angles.npy",
+      "cartesian_file": "trial_036_cartesian.npy",
+      "num_steps": 57,
+      "joint_angles_shape": [
+        57,
+        8
+      ],
+      "cartesian_shape": [
+        57,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 37,
+      "joint_angles_file": "trial_037_joint_angles.npy",
+      "cartesian_file": "trial_037_cartesian.npy",
+      "num_steps": 56,
+      "joint_angles_shape": [
+        56,
+        8
+      ],
+      "cartesian_shape": [
+        56,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 38,
+      "joint_angles_file": "trial_038_joint_angles.npy",
+      "cartesian_file": "trial_038_cartesian.npy",
+      "num_steps": 47,
+      "joint_angles_shape": [
+        47,
+        8
+      ],
+      "cartesian_shape": [
+        47,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 39,
+      "joint_angles_file": "trial_039_joint_angles.npy",
+      "cartesian_file": "trial_039_cartesian.npy",
+      "num_steps": 51,
+      "joint_angles_shape": [
+        51,
+        8
+      ],
+      "cartesian_shape": [
+        51,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 40,
+      "joint_angles_file": "trial_040_joint_angles.npy",
+      "cartesian_file": "trial_040_cartesian.npy",
+      "num_steps": 54,
+      "joint_angles_shape": [
+        54,
+        8
+      ],
+      "cartesian_shape": [
+        54,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 41,
+      "joint_angles_file": "trial_041_joint_angles.npy",
+      "cartesian_file": "trial_041_cartesian.npy",
+      "num_steps": 46,
+      "joint_angles_shape": [
+        46,
+        8
+      ],
+      "cartesian_shape": [
+        46,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 42,
+      "joint_angles_file": "trial_042_joint_angles.npy",
+      "cartesian_file": "trial_042_cartesian.npy",
+      "num_steps": 36,
+      "joint_angles_shape": [
+        36,
+        8
+      ],
+      "cartesian_shape": [
+        36,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 43,
+      "joint_angles_file": "trial_043_joint_angles.npy",
+      "cartesian_file": "trial_043_cartesian.npy",
+      "num_steps": 47,
+      "joint_angles_shape": [
+        47,
+        8
+      ],
+      "cartesian_shape": [
+        47,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 44,
+      "joint_angles_file": "trial_044_joint_angles.npy",
+      "cartesian_file": "trial_044_cartesian.npy",
+      "num_steps": 45,
+      "joint_angles_shape": [
+        45,
+        8
+      ],
+      "cartesian_shape": [
+        45,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 45,
+      "joint_angles_file": "trial_045_joint_angles.npy",
+      "cartesian_file": "trial_045_cartesian.npy",
+      "num_steps": 63,
+      "joint_angles_shape": [
+        63,
+        8
+      ],
+      "cartesian_shape": [
+        63,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 46,
+      "joint_angles_file": "trial_046_joint_angles.npy",
+      "cartesian_file": "trial_046_cartesian.npy",
+      "num_steps": 44,
+      "joint_angles_shape": [
+        44,
+        8
+      ],
+      "cartesian_shape": [
+        44,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 47,
+      "joint_angles_file": "trial_047_joint_angles.npy",
+      "cartesian_file": "trial_047_cartesian.npy",
+      "num_steps": 29,
+      "joint_angles_shape": [
+        29,
+        8
+      ],
+      "cartesian_shape": [
+        29,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 48,
+      "joint_angles_file": "trial_048_joint_angles.npy",
+      "cartesian_file": "trial_048_cartesian.npy",
+      "num_steps": 46,
+      "joint_angles_shape": [
+        46,
+        8
+      ],
+      "cartesian_shape": [
+        46,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    },
+    {
+      "trial": 49,
+      "joint_angles_file": "trial_049_joint_angles.npy",
+      "cartesian_file": "trial_049_cartesian.npy",
+      "num_steps": 53,
+      "joint_angles_shape": [
+        53,
+        8
+      ],
+      "cartesian_shape": [
+        53,
+        7
+      ],
+      "descriptions": [
+        "reach the red target",
+        "touch the red ball with the panda gripper",
+        "reach the red sphere"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1106 @@
+{
+  "task_name": "TakeUmbrellaOutOfUmbrellaStand",
+  "num_trials": 50,
+  "trials": [
+    {
+      "trial": 0,
+      "joint_angles_file": "trial_000_joint_angles.npy",
+      "cartesian_file": "trial_000_cartesian.npy",
+      "num_steps": 75,
+      "joint_angles_shape": [
+        75,
+        8
+      ],
+      "cartesian_shape": [
+        75,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 1,
+      "joint_angles_file": "trial_001_joint_angles.npy",
+      "cartesian_file": "trial_001_cartesian.npy",
+      "num_steps": 69,
+      "joint_angles_shape": [
+        69,
+        8
+      ],
+      "cartesian_shape": [
+        69,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 2,
+      "joint_angles_file": "trial_002_joint_angles.npy",
+      "cartesian_file": "trial_002_cartesian.npy",
+      "num_steps": 80,
+      "joint_angles_shape": [
+        80,
+        8
+      ],
+      "cartesian_shape": [
+        80,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 3,
+      "joint_angles_file": "trial_003_joint_angles.npy",
+      "cartesian_file": "trial_003_cartesian.npy",
+      "num_steps": 102,
+      "joint_angles_shape": [
+        102,
+        8
+      ],
+      "cartesian_shape": [
+        102,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 4,
+      "joint_angles_file": "trial_004_joint_angles.npy",
+      "cartesian_file": "trial_004_cartesian.npy",
+      "num_steps": 77,
+      "joint_angles_shape": [
+        77,
+        8
+      ],
+      "cartesian_shape": [
+        77,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 5,
+      "joint_angles_file": "trial_005_joint_angles.npy",
+      "cartesian_file": "trial_005_cartesian.npy",
+      "num_steps": 121,
+      "joint_angles_shape": [
+        121,
+        8
+      ],
+      "cartesian_shape": [
+        121,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 6,
+      "joint_angles_file": "trial_006_joint_angles.npy",
+      "cartesian_file": "trial_006_cartesian.npy",
+      "num_steps": 96,
+      "joint_angles_shape": [
+        96,
+        8
+      ],
+      "cartesian_shape": [
+        96,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 7,
+      "joint_angles_file": "trial_007_joint_angles.npy",
+      "cartesian_file": "trial_007_cartesian.npy",
+      "num_steps": 131,
+      "joint_angles_shape": [
+        131,
+        8
+      ],
+      "cartesian_shape": [
+        131,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 8,
+      "joint_angles_file": "trial_008_joint_angles.npy",
+      "cartesian_file": "trial_008_cartesian.npy",
+      "num_steps": 96,
+      "joint_angles_shape": [
+        96,
+        8
+      ],
+      "cartesian_shape": [
+        96,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 9,
+      "joint_angles_file": "trial_009_joint_angles.npy",
+      "cartesian_file": "trial_009_cartesian.npy",
+      "num_steps": 91,
+      "joint_angles_shape": [
+        91,
+        8
+      ],
+      "cartesian_shape": [
+        91,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 10,
+      "joint_angles_file": "trial_010_joint_angles.npy",
+      "cartesian_file": "trial_010_cartesian.npy",
+      "num_steps": 70,
+      "joint_angles_shape": [
+        70,
+        8
+      ],
+      "cartesian_shape": [
+        70,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 11,
+      "joint_angles_file": "trial_011_joint_angles.npy",
+      "cartesian_file": "trial_011_cartesian.npy",
+      "num_steps": 79,
+      "joint_angles_shape": [
+        79,
+        8
+      ],
+      "cartesian_shape": [
+        79,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 12,
+      "joint_angles_file": "trial_012_joint_angles.npy",
+      "cartesian_file": "trial_012_cartesian.npy",
+      "num_steps": 85,
+      "joint_angles_shape": [
+        85,
+        8
+      ],
+      "cartesian_shape": [
+        85,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 13,
+      "joint_angles_file": "trial_013_joint_angles.npy",
+      "cartesian_file": "trial_013_cartesian.npy",
+      "num_steps": 80,
+      "joint_angles_shape": [
+        80,
+        8
+      ],
+      "cartesian_shape": [
+        80,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 14,
+      "joint_angles_file": "trial_014_joint_angles.npy",
+      "cartesian_file": "trial_014_cartesian.npy",
+      "num_steps": 94,
+      "joint_angles_shape": [
+        94,
+        8
+      ],
+      "cartesian_shape": [
+        94,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 15,
+      "joint_angles_file": "trial_015_joint_angles.npy",
+      "cartesian_file": "trial_015_cartesian.npy",
+      "num_steps": 96,
+      "joint_angles_shape": [
+        96,
+        8
+      ],
+      "cartesian_shape": [
+        96,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 16,
+      "joint_angles_file": "trial_016_joint_angles.npy",
+      "cartesian_file": "trial_016_cartesian.npy",
+      "num_steps": 140,
+      "joint_angles_shape": [
+        140,
+        8
+      ],
+      "cartesian_shape": [
+        140,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 17,
+      "joint_angles_file": "trial_017_joint_angles.npy",
+      "cartesian_file": "trial_017_cartesian.npy",
+      "num_steps": 72,
+      "joint_angles_shape": [
+        72,
+        8
+      ],
+      "cartesian_shape": [
+        72,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 18,
+      "joint_angles_file": "trial_018_joint_angles.npy",
+      "cartesian_file": "trial_018_cartesian.npy",
+      "num_steps": 136,
+      "joint_angles_shape": [
+        136,
+        8
+      ],
+      "cartesian_shape": [
+        136,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 19,
+      "joint_angles_file": "trial_019_joint_angles.npy",
+      "cartesian_file": "trial_019_cartesian.npy",
+      "num_steps": 79,
+      "joint_angles_shape": [
+        79,
+        8
+      ],
+      "cartesian_shape": [
+        79,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 20,
+      "joint_angles_file": "trial_020_joint_angles.npy",
+      "cartesian_file": "trial_020_cartesian.npy",
+      "num_steps": 82,
+      "joint_angles_shape": [
+        82,
+        8
+      ],
+      "cartesian_shape": [
+        82,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 21,
+      "joint_angles_file": "trial_021_joint_angles.npy",
+      "cartesian_file": "trial_021_cartesian.npy",
+      "num_steps": 107,
+      "joint_angles_shape": [
+        107,
+        8
+      ],
+      "cartesian_shape": [
+        107,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 22,
+      "joint_angles_file": "trial_022_joint_angles.npy",
+      "cartesian_file": "trial_022_cartesian.npy",
+      "num_steps": 72,
+      "joint_angles_shape": [
+        72,
+        8
+      ],
+      "cartesian_shape": [
+        72,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 23,
+      "joint_angles_file": "trial_023_joint_angles.npy",
+      "cartesian_file": "trial_023_cartesian.npy",
+      "num_steps": 93,
+      "joint_angles_shape": [
+        93,
+        8
+      ],
+      "cartesian_shape": [
+        93,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 24,
+      "joint_angles_file": "trial_024_joint_angles.npy",
+      "cartesian_file": "trial_024_cartesian.npy",
+      "num_steps": 70,
+      "joint_angles_shape": [
+        70,
+        8
+      ],
+      "cartesian_shape": [
+        70,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 25,
+      "joint_angles_file": "trial_025_joint_angles.npy",
+      "cartesian_file": "trial_025_cartesian.npy",
+      "num_steps": 83,
+      "joint_angles_shape": [
+        83,
+        8
+      ],
+      "cartesian_shape": [
+        83,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 26,
+      "joint_angles_file": "trial_026_joint_angles.npy",
+      "cartesian_file": "trial_026_cartesian.npy",
+      "num_steps": 143,
+      "joint_angles_shape": [
+        143,
+        8
+      ],
+      "cartesian_shape": [
+        143,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 27,
+      "joint_angles_file": "trial_027_joint_angles.npy",
+      "cartesian_file": "trial_027_cartesian.npy",
+      "num_steps": 117,
+      "joint_angles_shape": [
+        117,
+        8
+      ],
+      "cartesian_shape": [
+        117,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 28,
+      "joint_angles_file": "trial_028_joint_angles.npy",
+      "cartesian_file": "trial_028_cartesian.npy",
+      "num_steps": 81,
+      "joint_angles_shape": [
+        81,
+        8
+      ],
+      "cartesian_shape": [
+        81,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 29,
+      "joint_angles_file": "trial_029_joint_angles.npy",
+      "cartesian_file": "trial_029_cartesian.npy",
+      "num_steps": 67,
+      "joint_angles_shape": [
+        67,
+        8
+      ],
+      "cartesian_shape": [
+        67,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 30,
+      "joint_angles_file": "trial_030_joint_angles.npy",
+      "cartesian_file": "trial_030_cartesian.npy",
+      "num_steps": 80,
+      "joint_angles_shape": [
+        80,
+        8
+      ],
+      "cartesian_shape": [
+        80,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 31,
+      "joint_angles_file": "trial_031_joint_angles.npy",
+      "cartesian_file": "trial_031_cartesian.npy",
+      "num_steps": 90,
+      "joint_angles_shape": [
+        90,
+        8
+      ],
+      "cartesian_shape": [
+        90,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 32,
+      "joint_angles_file": "trial_032_joint_angles.npy",
+      "cartesian_file": "trial_032_cartesian.npy",
+      "num_steps": 91,
+      "joint_angles_shape": [
+        91,
+        8
+      ],
+      "cartesian_shape": [
+        91,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 33,
+      "joint_angles_file": "trial_033_joint_angles.npy",
+      "cartesian_file": "trial_033_cartesian.npy",
+      "num_steps": 72,
+      "joint_angles_shape": [
+        72,
+        8
+      ],
+      "cartesian_shape": [
+        72,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 34,
+      "joint_angles_file": "trial_034_joint_angles.npy",
+      "cartesian_file": "trial_034_cartesian.npy",
+      "num_steps": 74,
+      "joint_angles_shape": [
+        74,
+        8
+      ],
+      "cartesian_shape": [
+        74,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 35,
+      "joint_angles_file": "trial_035_joint_angles.npy",
+      "cartesian_file": "trial_035_cartesian.npy",
+      "num_steps": 79,
+      "joint_angles_shape": [
+        79,
+        8
+      ],
+      "cartesian_shape": [
+        79,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 36,
+      "joint_angles_file": "trial_036_joint_angles.npy",
+      "cartesian_file": "trial_036_cartesian.npy",
+      "num_steps": 106,
+      "joint_angles_shape": [
+        106,
+        8
+      ],
+      "cartesian_shape": [
+        106,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 37,
+      "joint_angles_file": "trial_037_joint_angles.npy",
+      "cartesian_file": "trial_037_cartesian.npy",
+      "num_steps": 69,
+      "joint_angles_shape": [
+        69,
+        8
+      ],
+      "cartesian_shape": [
+        69,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 38,
+      "joint_angles_file": "trial_038_joint_angles.npy",
+      "cartesian_file": "trial_038_cartesian.npy",
+      "num_steps": 109,
+      "joint_angles_shape": [
+        109,
+        8
+      ],
+      "cartesian_shape": [
+        109,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 39,
+      "joint_angles_file": "trial_039_joint_angles.npy",
+      "cartesian_file": "trial_039_cartesian.npy",
+      "num_steps": 91,
+      "joint_angles_shape": [
+        91,
+        8
+      ],
+      "cartesian_shape": [
+        91,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 40,
+      "joint_angles_file": "trial_040_joint_angles.npy",
+      "cartesian_file": "trial_040_cartesian.npy",
+      "num_steps": 91,
+      "joint_angles_shape": [
+        91,
+        8
+      ],
+      "cartesian_shape": [
+        91,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 41,
+      "joint_angles_file": "trial_041_joint_angles.npy",
+      "cartesian_file": "trial_041_cartesian.npy",
+      "num_steps": 127,
+      "joint_angles_shape": [
+        127,
+        8
+      ],
+      "cartesian_shape": [
+        127,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 42,
+      "joint_angles_file": "trial_042_joint_angles.npy",
+      "cartesian_file": "trial_042_cartesian.npy",
+      "num_steps": 77,
+      "joint_angles_shape": [
+        77,
+        8
+      ],
+      "cartesian_shape": [
+        77,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 43,
+      "joint_angles_file": "trial_043_joint_angles.npy",
+      "cartesian_file": "trial_043_cartesian.npy",
+      "num_steps": 105,
+      "joint_angles_shape": [
+        105,
+        8
+      ],
+      "cartesian_shape": [
+        105,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 44,
+      "joint_angles_file": "trial_044_joint_angles.npy",
+      "cartesian_file": "trial_044_cartesian.npy",
+      "num_steps": 124,
+      "joint_angles_shape": [
+        124,
+        8
+      ],
+      "cartesian_shape": [
+        124,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 45,
+      "joint_angles_file": "trial_045_joint_angles.npy",
+      "cartesian_file": "trial_045_cartesian.npy",
+      "num_steps": 88,
+      "joint_angles_shape": [
+        88,
+        8
+      ],
+      "cartesian_shape": [
+        88,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 46,
+      "joint_angles_file": "trial_046_joint_angles.npy",
+      "cartesian_file": "trial_046_cartesian.npy",
+      "num_steps": 188,
+      "joint_angles_shape": [
+        188,
+        8
+      ],
+      "cartesian_shape": [
+        188,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 47,
+      "joint_angles_file": "trial_047_joint_angles.npy",
+      "cartesian_file": "trial_047_cartesian.npy",
+      "num_steps": 82,
+      "joint_angles_shape": [
+        82,
+        8
+      ],
+      "cartesian_shape": [
+        82,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 48,
+      "joint_angles_file": "trial_048_joint_angles.npy",
+      "cartesian_file": "trial_048_cartesian.npy",
+      "num_steps": 85,
+      "joint_angles_shape": [
+        85,
+        8
+      ],
+      "cartesian_shape": [
+        85,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    },
+    {
+      "trial": 49,
+      "joint_angles_file": "trial_049_joint_angles.npy",
+      "cartesian_file": "trial_049_cartesian.npy",
+      "num_steps": 109,
+      "joint_angles_shape": [
+        109,
+        8
+      ],
+      "cartesian_shape": [
+        109,
+        7
+      ],
+      "descriptions": [
+        "take umbrella out of umbrella stand",
+        "grasping the umbrella by its handle, lift it up and out of the stand",
+        "remove the umbrella from the stand",
+        "retrieve the umbrella from the stand",
+        "get the umbrella",
+        "lift the umbrella out of the stand"
+      ]
+    }
+  ]
+}

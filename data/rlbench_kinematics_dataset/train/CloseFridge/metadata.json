@@ -1,0 +1,1056 @@
+{
+  "task_name": "CloseFridge",
+  "num_trials": 50,
+  "trials": [
+    {
+      "trial": 0,
+      "joint_angles_file": "trial_000_joint_angles.npy",
+      "cartesian_file": "trial_000_cartesian.npy",
+      "num_steps": 104,
+      "joint_angles_shape": [
+        104,
+        8
+      ],
+      "cartesian_shape": [
+        104,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 1,
+      "joint_angles_file": "trial_001_joint_angles.npy",
+      "cartesian_file": "trial_001_cartesian.npy",
+      "num_steps": 133,
+      "joint_angles_shape": [
+        133,
+        8
+      ],
+      "cartesian_shape": [
+        133,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 2,
+      "joint_angles_file": "trial_002_joint_angles.npy",
+      "cartesian_file": "trial_002_cartesian.npy",
+      "num_steps": 125,
+      "joint_angles_shape": [
+        125,
+        8
+      ],
+      "cartesian_shape": [
+        125,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 3,
+      "joint_angles_file": "trial_003_joint_angles.npy",
+      "cartesian_file": "trial_003_cartesian.npy",
+      "num_steps": 104,
+      "joint_angles_shape": [
+        104,
+        8
+      ],
+      "cartesian_shape": [
+        104,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 4,
+      "joint_angles_file": "trial_004_joint_angles.npy",
+      "cartesian_file": "trial_004_cartesian.npy",
+      "num_steps": 141,
+      "joint_angles_shape": [
+        141,
+        8
+      ],
+      "cartesian_shape": [
+        141,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 5,
+      "joint_angles_file": "trial_005_joint_angles.npy",
+      "cartesian_file": "trial_005_cartesian.npy",
+      "num_steps": 115,
+      "joint_angles_shape": [
+        115,
+        8
+      ],
+      "cartesian_shape": [
+        115,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 6,
+      "joint_angles_file": "trial_006_joint_angles.npy",
+      "cartesian_file": "trial_006_cartesian.npy",
+      "num_steps": 144,
+      "joint_angles_shape": [
+        144,
+        8
+      ],
+      "cartesian_shape": [
+        144,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 7,
+      "joint_angles_file": "trial_007_joint_angles.npy",
+      "cartesian_file": "trial_007_cartesian.npy",
+      "num_steps": 110,
+      "joint_angles_shape": [
+        110,
+        8
+      ],
+      "cartesian_shape": [
+        110,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 8,
+      "joint_angles_file": "trial_008_joint_angles.npy",
+      "cartesian_file": "trial_008_cartesian.npy",
+      "num_steps": 134,
+      "joint_angles_shape": [
+        134,
+        8
+      ],
+      "cartesian_shape": [
+        134,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 9,
+      "joint_angles_file": "trial_009_joint_angles.npy",
+      "cartesian_file": "trial_009_cartesian.npy",
+      "num_steps": 128,
+      "joint_angles_shape": [
+        128,
+        8
+      ],
+      "cartesian_shape": [
+        128,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 10,
+      "joint_angles_file": "trial_010_joint_angles.npy",
+      "cartesian_file": "trial_010_cartesian.npy",
+      "num_steps": 147,
+      "joint_angles_shape": [
+        147,
+        8
+      ],
+      "cartesian_shape": [
+        147,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 11,
+      "joint_angles_file": "trial_011_joint_angles.npy",
+      "cartesian_file": "trial_011_cartesian.npy",
+      "num_steps": 129,
+      "joint_angles_shape": [
+        129,
+        8
+      ],
+      "cartesian_shape": [
+        129,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 12,
+      "joint_angles_file": "trial_012_joint_angles.npy",
+      "cartesian_file": "trial_012_cartesian.npy",
+      "num_steps": 112,
+      "joint_angles_shape": [
+        112,
+        8
+      ],
+      "cartesian_shape": [
+        112,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 13,
+      "joint_angles_file": "trial_013_joint_angles.npy",
+      "cartesian_file": "trial_013_cartesian.npy",
+      "num_steps": 139,
+      "joint_angles_shape": [
+        139,
+        8
+      ],
+      "cartesian_shape": [
+        139,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 14,
+      "joint_angles_file": "trial_014_joint_angles.npy",
+      "cartesian_file": "trial_014_cartesian.npy",
+      "num_steps": 133,
+      "joint_angles_shape": [
+        133,
+        8
+      ],
+      "cartesian_shape": [
+        133,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 15,
+      "joint_angles_file": "trial_015_joint_angles.npy",
+      "cartesian_file": "trial_015_cartesian.npy",
+      "num_steps": 113,
+      "joint_angles_shape": [
+        113,
+        8
+      ],
+      "cartesian_shape": [
+        113,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 16,
+      "joint_angles_file": "trial_016_joint_angles.npy",
+      "cartesian_file": "trial_016_cartesian.npy",
+      "num_steps": 147,
+      "joint_angles_shape": [
+        147,
+        8
+      ],
+      "cartesian_shape": [
+        147,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 17,
+      "joint_angles_file": "trial_017_joint_angles.npy",
+      "cartesian_file": "trial_017_cartesian.npy",
+      "num_steps": 125,
+      "joint_angles_shape": [
+        125,
+        8
+      ],
+      "cartesian_shape": [
+        125,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 18,
+      "joint_angles_file": "trial_018_joint_angles.npy",
+      "cartesian_file": "trial_018_cartesian.npy",
+      "num_steps": 102,
+      "joint_angles_shape": [
+        102,
+        8
+      ],
+      "cartesian_shape": [
+        102,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 19,
+      "joint_angles_file": "trial_019_joint_angles.npy",
+      "cartesian_file": "trial_019_cartesian.npy",
+      "num_steps": 149,
+      "joint_angles_shape": [
+        149,
+        8
+      ],
+      "cartesian_shape": [
+        149,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 20,
+      "joint_angles_file": "trial_020_joint_angles.npy",
+      "cartesian_file": "trial_020_cartesian.npy",
+      "num_steps": 155,
+      "joint_angles_shape": [
+        155,
+        8
+      ],
+      "cartesian_shape": [
+        155,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 21,
+      "joint_angles_file": "trial_021_joint_angles.npy",
+      "cartesian_file": "trial_021_cartesian.npy",
+      "num_steps": 141,
+      "joint_angles_shape": [
+        141,
+        8
+      ],
+      "cartesian_shape": [
+        141,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 22,
+      "joint_angles_file": "trial_022_joint_angles.npy",
+      "cartesian_file": "trial_022_cartesian.npy",
+      "num_steps": 126,
+      "joint_angles_shape": [
+        126,
+        8
+      ],
+      "cartesian_shape": [
+        126,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 23,
+      "joint_angles_file": "trial_023_joint_angles.npy",
+      "cartesian_file": "trial_023_cartesian.npy",
+      "num_steps": 134,
+      "joint_angles_shape": [
+        134,
+        8
+      ],
+      "cartesian_shape": [
+        134,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 24,
+      "joint_angles_file": "trial_024_joint_angles.npy",
+      "cartesian_file": "trial_024_cartesian.npy",
+      "num_steps": 128,
+      "joint_angles_shape": [
+        128,
+        8
+      ],
+      "cartesian_shape": [
+        128,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 25,
+      "joint_angles_file": "trial_025_joint_angles.npy",
+      "cartesian_file": "trial_025_cartesian.npy",
+      "num_steps": 118,
+      "joint_angles_shape": [
+        118,
+        8
+      ],
+      "cartesian_shape": [
+        118,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 26,
+      "joint_angles_file": "trial_026_joint_angles.npy",
+      "cartesian_file": "trial_026_cartesian.npy",
+      "num_steps": 174,
+      "joint_angles_shape": [
+        174,
+        8
+      ],
+      "cartesian_shape": [
+        174,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 27,
+      "joint_angles_file": "trial_027_joint_angles.npy",
+      "cartesian_file": "trial_027_cartesian.npy",
+      "num_steps": 149,
+      "joint_angles_shape": [
+        149,
+        8
+      ],
+      "cartesian_shape": [
+        149,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 28,
+      "joint_angles_file": "trial_028_joint_angles.npy",
+      "cartesian_file": "trial_028_cartesian.npy",
+      "num_steps": 142,
+      "joint_angles_shape": [
+        142,
+        8
+      ],
+      "cartesian_shape": [
+        142,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 29,
+      "joint_angles_file": "trial_029_joint_angles.npy",
+      "cartesian_file": "trial_029_cartesian.npy",
+      "num_steps": 140,
+      "joint_angles_shape": [
+        140,
+        8
+      ],
+      "cartesian_shape": [
+        140,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 30,
+      "joint_angles_file": "trial_030_joint_angles.npy",
+      "cartesian_file": "trial_030_cartesian.npy",
+      "num_steps": 162,
+      "joint_angles_shape": [
+        162,
+        8
+      ],
+      "cartesian_shape": [
+        162,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 31,
+      "joint_angles_file": "trial_031_joint_angles.npy",
+      "cartesian_file": "trial_031_cartesian.npy",
+      "num_steps": 136,
+      "joint_angles_shape": [
+        136,
+        8
+      ],
+      "cartesian_shape": [
+        136,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 32,
+      "joint_angles_file": "trial_032_joint_angles.npy",
+      "cartesian_file": "trial_032_cartesian.npy",
+      "num_steps": 148,
+      "joint_angles_shape": [
+        148,
+        8
+      ],
+      "cartesian_shape": [
+        148,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 33,
+      "joint_angles_file": "trial_033_joint_angles.npy",
+      "cartesian_file": "trial_033_cartesian.npy",
+      "num_steps": 133,
+      "joint_angles_shape": [
+        133,
+        8
+      ],
+      "cartesian_shape": [
+        133,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 34,
+      "joint_angles_file": "trial_034_joint_angles.npy",
+      "cartesian_file": "trial_034_cartesian.npy",
+      "num_steps": 125,
+      "joint_angles_shape": [
+        125,
+        8
+      ],
+      "cartesian_shape": [
+        125,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 35,
+      "joint_angles_file": "trial_035_joint_angles.npy",
+      "cartesian_file": "trial_035_cartesian.npy",
+      "num_steps": 147,
+      "joint_angles_shape": [
+        147,
+        8
+      ],
+      "cartesian_shape": [
+        147,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 36,
+      "joint_angles_file": "trial_036_joint_angles.npy",
+      "cartesian_file": "trial_036_cartesian.npy",
+      "num_steps": 128,
+      "joint_angles_shape": [
+        128,
+        8
+      ],
+      "cartesian_shape": [
+        128,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 37,
+      "joint_angles_file": "trial_037_joint_angles.npy",
+      "cartesian_file": "trial_037_cartesian.npy",
+      "num_steps": 126,
+      "joint_angles_shape": [
+        126,
+        8
+      ],
+      "cartesian_shape": [
+        126,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 38,
+      "joint_angles_file": "trial_038_joint_angles.npy",
+      "cartesian_file": "trial_038_cartesian.npy",
+      "num_steps": 143,
+      "joint_angles_shape": [
+        143,
+        8
+      ],
+      "cartesian_shape": [
+        143,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 39,
+      "joint_angles_file": "trial_039_joint_angles.npy",
+      "cartesian_file": "trial_039_cartesian.npy",
+      "num_steps": 145,
+      "joint_angles_shape": [
+        145,
+        8
+      ],
+      "cartesian_shape": [
+        145,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 40,
+      "joint_angles_file": "trial_040_joint_angles.npy",
+      "cartesian_file": "trial_040_cartesian.npy",
+      "num_steps": 154,
+      "joint_angles_shape": [
+        154,
+        8
+      ],
+      "cartesian_shape": [
+        154,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 41,
+      "joint_angles_file": "trial_041_joint_angles.npy",
+      "cartesian_file": "trial_041_cartesian.npy",
+      "num_steps": 132,
+      "joint_angles_shape": [
+        132,
+        8
+      ],
+      "cartesian_shape": [
+        132,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 42,
+      "joint_angles_file": "trial_042_joint_angles.npy",
+      "cartesian_file": "trial_042_cartesian.npy",
+      "num_steps": 120,
+      "joint_angles_shape": [
+        120,
+        8
+      ],
+      "cartesian_shape": [
+        120,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 43,
+      "joint_angles_file": "trial_043_joint_angles.npy",
+      "cartesian_file": "trial_043_cartesian.npy",
+      "num_steps": 130,
+      "joint_angles_shape": [
+        130,
+        8
+      ],
+      "cartesian_shape": [
+        130,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 44,
+      "joint_angles_file": "trial_044_joint_angles.npy",
+      "cartesian_file": "trial_044_cartesian.npy",
+      "num_steps": 127,
+      "joint_angles_shape": [
+        127,
+        8
+      ],
+      "cartesian_shape": [
+        127,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 45,
+      "joint_angles_file": "trial_045_joint_angles.npy",
+      "cartesian_file": "trial_045_cartesian.npy",
+      "num_steps": 126,
+      "joint_angles_shape": [
+        126,
+        8
+      ],
+      "cartesian_shape": [
+        126,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 46,
+      "joint_angles_file": "trial_046_joint_angles.npy",
+      "cartesian_file": "trial_046_cartesian.npy",
+      "num_steps": 144,
+      "joint_angles_shape": [
+        144,
+        8
+      ],
+      "cartesian_shape": [
+        144,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 47,
+      "joint_angles_file": "trial_047_joint_angles.npy",
+      "cartesian_file": "trial_047_cartesian.npy",
+      "num_steps": 146,
+      "joint_angles_shape": [
+        146,
+        8
+      ],
+      "cartesian_shape": [
+        146,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 48,
+      "joint_angles_file": "trial_048_joint_angles.npy",
+      "cartesian_file": "trial_048_cartesian.npy",
+      "num_steps": 121,
+      "joint_angles_shape": [
+        121,
+        8
+      ],
+      "cartesian_shape": [
+        121,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    },
+    {
+      "trial": 49,
+      "joint_angles_file": "trial_049_joint_angles.npy",
+      "cartesian_file": "trial_049_cartesian.npy",
+      "num_steps": 142,
+      "joint_angles_shape": [
+        142,
+        8
+      ],
+      "cartesian_shape": [
+        142,
+        7
+      ],
+      "descriptions": [
+        "close fridge",
+        "close the fridge",
+        "shut the fridge",
+        "close the fridge door",
+        "swing the fridge door shut"
+      ]
+    }
+  ]
+}

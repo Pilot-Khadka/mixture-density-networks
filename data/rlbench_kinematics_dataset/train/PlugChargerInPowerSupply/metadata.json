@@ -1,0 +1,1056 @@
+{
+  "task_name": "PlugChargerInPowerSupply",
+  "num_trials": 50,
+  "trials": [
+    {
+      "trial": 0,
+      "joint_angles_file": "trial_000_joint_angles.npy",
+      "cartesian_file": "trial_000_cartesian.npy",
+      "num_steps": 213,
+      "joint_angles_shape": [
+        213,
+        8
+      ],
+      "cartesian_shape": [
+        213,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 1,
+      "joint_angles_file": "trial_001_joint_angles.npy",
+      "cartesian_file": "trial_001_cartesian.npy",
+      "num_steps": 291,
+      "joint_angles_shape": [
+        291,
+        8
+      ],
+      "cartesian_shape": [
+        291,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 2,
+      "joint_angles_file": "trial_002_joint_angles.npy",
+      "cartesian_file": "trial_002_cartesian.npy",
+      "num_steps": 178,
+      "joint_angles_shape": [
+        178,
+        8
+      ],
+      "cartesian_shape": [
+        178,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 3,
+      "joint_angles_file": "trial_003_joint_angles.npy",
+      "cartesian_file": "trial_003_cartesian.npy",
+      "num_steps": 159,
+      "joint_angles_shape": [
+        159,
+        8
+      ],
+      "cartesian_shape": [
+        159,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 4,
+      "joint_angles_file": "trial_004_joint_angles.npy",
+      "cartesian_file": "trial_004_cartesian.npy",
+      "num_steps": 164,
+      "joint_angles_shape": [
+        164,
+        8
+      ],
+      "cartesian_shape": [
+        164,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 5,
+      "joint_angles_file": "trial_005_joint_angles.npy",
+      "cartesian_file": "trial_005_cartesian.npy",
+      "num_steps": 162,
+      "joint_angles_shape": [
+        162,
+        8
+      ],
+      "cartesian_shape": [
+        162,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 6,
+      "joint_angles_file": "trial_006_joint_angles.npy",
+      "cartesian_file": "trial_006_cartesian.npy",
+      "num_steps": 166,
+      "joint_angles_shape": [
+        166,
+        8
+      ],
+      "cartesian_shape": [
+        166,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 7,
+      "joint_angles_file": "trial_007_joint_angles.npy",
+      "cartesian_file": "trial_007_cartesian.npy",
+      "num_steps": 154,
+      "joint_angles_shape": [
+        154,
+        8
+      ],
+      "cartesian_shape": [
+        154,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 8,
+      "joint_angles_file": "trial_008_joint_angles.npy",
+      "cartesian_file": "trial_008_cartesian.npy",
+      "num_steps": 190,
+      "joint_angles_shape": [
+        190,
+        8
+      ],
+      "cartesian_shape": [
+        190,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 9,
+      "joint_angles_file": "trial_009_joint_angles.npy",
+      "cartesian_file": "trial_009_cartesian.npy",
+      "num_steps": 166,
+      "joint_angles_shape": [
+        166,
+        8
+      ],
+      "cartesian_shape": [
+        166,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 10,
+      "joint_angles_file": "trial_010_joint_angles.npy",
+      "cartesian_file": "trial_010_cartesian.npy",
+      "num_steps": 157,
+      "joint_angles_shape": [
+        157,
+        8
+      ],
+      "cartesian_shape": [
+        157,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 11,
+      "joint_angles_file": "trial_011_joint_angles.npy",
+      "cartesian_file": "trial_011_cartesian.npy",
+      "num_steps": 207,
+      "joint_angles_shape": [
+        207,
+        8
+      ],
+      "cartesian_shape": [
+        207,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 12,
+      "joint_angles_file": "trial_012_joint_angles.npy",
+      "cartesian_file": "trial_012_cartesian.npy",
+      "num_steps": 168,
+      "joint_angles_shape": [
+        168,
+        8
+      ],
+      "cartesian_shape": [
+        168,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 13,
+      "joint_angles_file": "trial_013_joint_angles.npy",
+      "cartesian_file": "trial_013_cartesian.npy",
+      "num_steps": 157,
+      "joint_angles_shape": [
+        157,
+        8
+      ],
+      "cartesian_shape": [
+        157,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 14,
+      "joint_angles_file": "trial_014_joint_angles.npy",
+      "cartesian_file": "trial_014_cartesian.npy",
+      "num_steps": 166,
+      "joint_angles_shape": [
+        166,
+        8
+      ],
+      "cartesian_shape": [
+        166,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 15,
+      "joint_angles_file": "trial_015_joint_angles.npy",
+      "cartesian_file": "trial_015_cartesian.npy",
+      "num_steps": 241,
+      "joint_angles_shape": [
+        241,
+        8
+      ],
+      "cartesian_shape": [
+        241,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 16,
+      "joint_angles_file": "trial_016_joint_angles.npy",
+      "cartesian_file": "trial_016_cartesian.npy",
+      "num_steps": 158,
+      "joint_angles_shape": [
+        158,
+        8
+      ],
+      "cartesian_shape": [
+        158,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 17,
+      "joint_angles_file": "trial_017_joint_angles.npy",
+      "cartesian_file": "trial_017_cartesian.npy",
+      "num_steps": 170,
+      "joint_angles_shape": [
+        170,
+        8
+      ],
+      "cartesian_shape": [
+        170,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 18,
+      "joint_angles_file": "trial_018_joint_angles.npy",
+      "cartesian_file": "trial_018_cartesian.npy",
+      "num_steps": 164,
+      "joint_angles_shape": [
+        164,
+        8
+      ],
+      "cartesian_shape": [
+        164,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 19,
+      "joint_angles_file": "trial_019_joint_angles.npy",
+      "cartesian_file": "trial_019_cartesian.npy",
+      "num_steps": 213,
+      "joint_angles_shape": [
+        213,
+        8
+      ],
+      "cartesian_shape": [
+        213,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 20,
+      "joint_angles_file": "trial_020_joint_angles.npy",
+      "cartesian_file": "trial_020_cartesian.npy",
+      "num_steps": 181,
+      "joint_angles_shape": [
+        181,
+        8
+      ],
+      "cartesian_shape": [
+        181,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 21,
+      "joint_angles_file": "trial_021_joint_angles.npy",
+      "cartesian_file": "trial_021_cartesian.npy",
+      "num_steps": 237,
+      "joint_angles_shape": [
+        237,
+        8
+      ],
+      "cartesian_shape": [
+        237,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 22,
+      "joint_angles_file": "trial_022_joint_angles.npy",
+      "cartesian_file": "trial_022_cartesian.npy",
+      "num_steps": 181,
+      "joint_angles_shape": [
+        181,
+        8
+      ],
+      "cartesian_shape": [
+        181,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 23,
+      "joint_angles_file": "trial_023_joint_angles.npy",
+      "cartesian_file": "trial_023_cartesian.npy",
+      "num_steps": 152,
+      "joint_angles_shape": [
+        152,
+        8
+      ],
+      "cartesian_shape": [
+        152,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 24,
+      "joint_angles_file": "trial_024_joint_angles.npy",
+      "cartesian_file": "trial_024_cartesian.npy",
+      "num_steps": 184,
+      "joint_angles_shape": [
+        184,
+        8
+      ],
+      "cartesian_shape": [
+        184,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 25,
+      "joint_angles_file": "trial_025_joint_angles.npy",
+      "cartesian_file": "trial_025_cartesian.npy",
+      "num_steps": 162,
+      "joint_angles_shape": [
+        162,
+        8
+      ],
+      "cartesian_shape": [
+        162,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 26,
+      "joint_angles_file": "trial_026_joint_angles.npy",
+      "cartesian_file": "trial_026_cartesian.npy",
+      "num_steps": 171,
+      "joint_angles_shape": [
+        171,
+        8
+      ],
+      "cartesian_shape": [
+        171,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 27,
+      "joint_angles_file": "trial_027_joint_angles.npy",
+      "cartesian_file": "trial_027_cartesian.npy",
+      "num_steps": 189,
+      "joint_angles_shape": [
+        189,
+        8
+      ],
+      "cartesian_shape": [
+        189,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 28,
+      "joint_angles_file": "trial_028_joint_angles.npy",
+      "cartesian_file": "trial_028_cartesian.npy",
+      "num_steps": 202,
+      "joint_angles_shape": [
+        202,
+        8
+      ],
+      "cartesian_shape": [
+        202,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 29,
+      "joint_angles_file": "trial_029_joint_angles.npy",
+      "cartesian_file": "trial_029_cartesian.npy",
+      "num_steps": 210,
+      "joint_angles_shape": [
+        210,
+        8
+      ],
+      "cartesian_shape": [
+        210,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 30,
+      "joint_angles_file": "trial_030_joint_angles.npy",
+      "cartesian_file": "trial_030_cartesian.npy",
+      "num_steps": 193,
+      "joint_angles_shape": [
+        193,
+        8
+      ],
+      "cartesian_shape": [
+        193,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 31,
+      "joint_angles_file": "trial_031_joint_angles.npy",
+      "cartesian_file": "trial_031_cartesian.npy",
+      "num_steps": 199,
+      "joint_angles_shape": [
+        199,
+        8
+      ],
+      "cartesian_shape": [
+        199,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 32,
+      "joint_angles_file": "trial_032_joint_angles.npy",
+      "cartesian_file": "trial_032_cartesian.npy",
+      "num_steps": 150,
+      "joint_angles_shape": [
+        150,
+        8
+      ],
+      "cartesian_shape": [
+        150,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 33,
+      "joint_angles_file": "trial_033_joint_angles.npy",
+      "cartesian_file": "trial_033_cartesian.npy",
+      "num_steps": 181,
+      "joint_angles_shape": [
+        181,
+        8
+      ],
+      "cartesian_shape": [
+        181,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 34,
+      "joint_angles_file": "trial_034_joint_angles.npy",
+      "cartesian_file": "trial_034_cartesian.npy",
+      "num_steps": 249,
+      "joint_angles_shape": [
+        249,
+        8
+      ],
+      "cartesian_shape": [
+        249,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 35,
+      "joint_angles_file": "trial_035_joint_angles.npy",
+      "cartesian_file": "trial_035_cartesian.npy",
+      "num_steps": 168,
+      "joint_angles_shape": [
+        168,
+        8
+      ],
+      "cartesian_shape": [
+        168,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 36,
+      "joint_angles_file": "trial_036_joint_angles.npy",
+      "cartesian_file": "trial_036_cartesian.npy",
+      "num_steps": 195,
+      "joint_angles_shape": [
+        195,
+        8
+      ],
+      "cartesian_shape": [
+        195,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 37,
+      "joint_angles_file": "trial_037_joint_angles.npy",
+      "cartesian_file": "trial_037_cartesian.npy",
+      "num_steps": 191,
+      "joint_angles_shape": [
+        191,
+        8
+      ],
+      "cartesian_shape": [
+        191,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 38,
+      "joint_angles_file": "trial_038_joint_angles.npy",
+      "cartesian_file": "trial_038_cartesian.npy",
+      "num_steps": 175,
+      "joint_angles_shape": [
+        175,
+        8
+      ],
+      "cartesian_shape": [
+        175,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 39,
+      "joint_angles_file": "trial_039_joint_angles.npy",
+      "cartesian_file": "trial_039_cartesian.npy",
+      "num_steps": 214,
+      "joint_angles_shape": [
+        214,
+        8
+      ],
+      "cartesian_shape": [
+        214,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 40,
+      "joint_angles_file": "trial_040_joint_angles.npy",
+      "cartesian_file": "trial_040_cartesian.npy",
+      "num_steps": 185,
+      "joint_angles_shape": [
+        185,
+        8
+      ],
+      "cartesian_shape": [
+        185,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 41,
+      "joint_angles_file": "trial_041_joint_angles.npy",
+      "cartesian_file": "trial_041_cartesian.npy",
+      "num_steps": 201,
+      "joint_angles_shape": [
+        201,
+        8
+      ],
+      "cartesian_shape": [
+        201,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 42,
+      "joint_angles_file": "trial_042_joint_angles.npy",
+      "cartesian_file": "trial_042_cartesian.npy",
+      "num_steps": 185,
+      "joint_angles_shape": [
+        185,
+        8
+      ],
+      "cartesian_shape": [
+        185,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 43,
+      "joint_angles_file": "trial_043_joint_angles.npy",
+      "cartesian_file": "trial_043_cartesian.npy",
+      "num_steps": 158,
+      "joint_angles_shape": [
+        158,
+        8
+      ],
+      "cartesian_shape": [
+        158,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 44,
+      "joint_angles_file": "trial_044_joint_angles.npy",
+      "cartesian_file": "trial_044_cartesian.npy",
+      "num_steps": 218,
+      "joint_angles_shape": [
+        218,
+        8
+      ],
+      "cartesian_shape": [
+        218,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 45,
+      "joint_angles_file": "trial_045_joint_angles.npy",
+      "cartesian_file": "trial_045_cartesian.npy",
+      "num_steps": 213,
+      "joint_angles_shape": [
+        213,
+        8
+      ],
+      "cartesian_shape": [
+        213,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 46,
+      "joint_angles_file": "trial_046_joint_angles.npy",
+      "cartesian_file": "trial_046_cartesian.npy",
+      "num_steps": 149,
+      "joint_angles_shape": [
+        149,
+        8
+      ],
+      "cartesian_shape": [
+        149,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 47,
+      "joint_angles_file": "trial_047_joint_angles.npy",
+      "cartesian_file": "trial_047_cartesian.npy",
+      "num_steps": 181,
+      "joint_angles_shape": [
+        181,
+        8
+      ],
+      "cartesian_shape": [
+        181,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 48,
+      "joint_angles_file": "trial_048_joint_angles.npy",
+      "cartesian_file": "trial_048_cartesian.npy",
+      "num_steps": 184,
+      "joint_angles_shape": [
+        184,
+        8
+      ],
+      "cartesian_shape": [
+        184,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    },
+    {
+      "trial": 49,
+      "joint_angles_file": "trial_049_joint_angles.npy",
+      "cartesian_file": "trial_049_cartesian.npy",
+      "num_steps": 156,
+      "joint_angles_shape": [
+        156,
+        8
+      ],
+      "cartesian_shape": [
+        156,
+        7
+      ],
+      "descriptions": [
+        "plug charger in power supply",
+        "pick up the charger and plug in it",
+        "plug the charger into the mains",
+        "lift the charger up to the wall and plug it in",
+        "plug the charger into the wall"
+      ]
+    }
+  ]
+}

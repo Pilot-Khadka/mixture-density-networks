@@ -1,0 +1,1106 @@
+{
+  "task_name": "ToiletSeatUp",
+  "num_trials": 50,
+  "trials": [
+    {
+      "trial": 0,
+      "joint_angles_file": "trial_000_joint_angles.npy",
+      "cartesian_file": "trial_000_cartesian.npy",
+      "num_steps": 174,
+      "joint_angles_shape": [
+        174,
+        8
+      ],
+      "cartesian_shape": [
+        174,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 1,
+      "joint_angles_file": "trial_001_joint_angles.npy",
+      "cartesian_file": "trial_001_cartesian.npy",
+      "num_steps": 174,
+      "joint_angles_shape": [
+        174,
+        8
+      ],
+      "cartesian_shape": [
+        174,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 2,
+      "joint_angles_file": "trial_002_joint_angles.npy",
+      "cartesian_file": "trial_002_cartesian.npy",
+      "num_steps": 213,
+      "joint_angles_shape": [
+        213,
+        8
+      ],
+      "cartesian_shape": [
+        213,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 3,
+      "joint_angles_file": "trial_003_joint_angles.npy",
+      "cartesian_file": "trial_003_cartesian.npy",
+      "num_steps": 176,
+      "joint_angles_shape": [
+        176,
+        8
+      ],
+      "cartesian_shape": [
+        176,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 4,
+      "joint_angles_file": "trial_004_joint_angles.npy",
+      "cartesian_file": "trial_004_cartesian.npy",
+      "num_steps": 175,
+      "joint_angles_shape": [
+        175,
+        8
+      ],
+      "cartesian_shape": [
+        175,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 5,
+      "joint_angles_file": "trial_005_joint_angles.npy",
+      "cartesian_file": "trial_005_cartesian.npy",
+      "num_steps": 176,
+      "joint_angles_shape": [
+        176,
+        8
+      ],
+      "cartesian_shape": [
+        176,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 6,
+      "joint_angles_file": "trial_006_joint_angles.npy",
+      "cartesian_file": "trial_006_cartesian.npy",
+      "num_steps": 181,
+      "joint_angles_shape": [
+        181,
+        8
+      ],
+      "cartesian_shape": [
+        181,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 7,
+      "joint_angles_file": "trial_007_joint_angles.npy",
+      "cartesian_file": "trial_007_cartesian.npy",
+      "num_steps": 168,
+      "joint_angles_shape": [
+        168,
+        8
+      ],
+      "cartesian_shape": [
+        168,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 8,
+      "joint_angles_file": "trial_008_joint_angles.npy",
+      "cartesian_file": "trial_008_cartesian.npy",
+      "num_steps": 211,
+      "joint_angles_shape": [
+        211,
+        8
+      ],
+      "cartesian_shape": [
+        211,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 9,
+      "joint_angles_file": "trial_009_joint_angles.npy",
+      "cartesian_file": "trial_009_cartesian.npy",
+      "num_steps": 207,
+      "joint_angles_shape": [
+        207,
+        8
+      ],
+      "cartesian_shape": [
+        207,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 10,
+      "joint_angles_file": "trial_010_joint_angles.npy",
+      "cartesian_file": "trial_010_cartesian.npy",
+      "num_steps": 179,
+      "joint_angles_shape": [
+        179,
+        8
+      ],
+      "cartesian_shape": [
+        179,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 11,
+      "joint_angles_file": "trial_011_joint_angles.npy",
+      "cartesian_file": "trial_011_cartesian.npy",
+      "num_steps": 202,
+      "joint_angles_shape": [
+        202,
+        8
+      ],
+      "cartesian_shape": [
+        202,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 12,
+      "joint_angles_file": "trial_012_joint_angles.npy",
+      "cartesian_file": "trial_012_cartesian.npy",
+      "num_steps": 117,
+      "joint_angles_shape": [
+        117,
+        8
+      ],
+      "cartesian_shape": [
+        117,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 13,
+      "joint_angles_file": "trial_013_joint_angles.npy",
+      "cartesian_file": "trial_013_cartesian.npy",
+      "num_steps": 208,
+      "joint_angles_shape": [
+        208,
+        8
+      ],
+      "cartesian_shape": [
+        208,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 14,
+      "joint_angles_file": "trial_014_joint_angles.npy",
+      "cartesian_file": "trial_014_cartesian.npy",
+      "num_steps": 175,
+      "joint_angles_shape": [
+        175,
+        8
+      ],
+      "cartesian_shape": [
+        175,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 15,
+      "joint_angles_file": "trial_015_joint_angles.npy",
+      "cartesian_file": "trial_015_cartesian.npy",
+      "num_steps": 161,
+      "joint_angles_shape": [
+        161,
+        8
+      ],
+      "cartesian_shape": [
+        161,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 16,
+      "joint_angles_file": "trial_016_joint_angles.npy",
+      "cartesian_file": "trial_016_cartesian.npy",
+      "num_steps": 197,
+      "joint_angles_shape": [
+        197,
+        8
+      ],
+      "cartesian_shape": [
+        197,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 17,
+      "joint_angles_file": "trial_017_joint_angles.npy",
+      "cartesian_file": "trial_017_cartesian.npy",
+      "num_steps": 240,
+      "joint_angles_shape": [
+        240,
+        8
+      ],
+      "cartesian_shape": [
+        240,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 18,
+      "joint_angles_file": "trial_018_joint_angles.npy",
+      "cartesian_file": "trial_018_cartesian.npy",
+      "num_steps": 269,
+      "joint_angles_shape": [
+        269,
+        8
+      ],
+      "cartesian_shape": [
+        269,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 19,
+      "joint_angles_file": "trial_019_joint_angles.npy",
+      "cartesian_file": "trial_019_cartesian.npy",
+      "num_steps": 172,
+      "joint_angles_shape": [
+        172,
+        8
+      ],
+      "cartesian_shape": [
+        172,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 20,
+      "joint_angles_file": "trial_020_joint_angles.npy",
+      "cartesian_file": "trial_020_cartesian.npy",
+      "num_steps": 206,
+      "joint_angles_shape": [
+        206,
+        8
+      ],
+      "cartesian_shape": [
+        206,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 21,
+      "joint_angles_file": "trial_021_joint_angles.npy",
+      "cartesian_file": "trial_021_cartesian.npy",
+      "num_steps": 185,
+      "joint_angles_shape": [
+        185,
+        8
+      ],
+      "cartesian_shape": [
+        185,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 22,
+      "joint_angles_file": "trial_022_joint_angles.npy",
+      "cartesian_file": "trial_022_cartesian.npy",
+      "num_steps": 175,
+      "joint_angles_shape": [
+        175,
+        8
+      ],
+      "cartesian_shape": [
+        175,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 23,
+      "joint_angles_file": "trial_023_joint_angles.npy",
+      "cartesian_file": "trial_023_cartesian.npy",
+      "num_steps": 198,
+      "joint_angles_shape": [
+        198,
+        8
+      ],
+      "cartesian_shape": [
+        198,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 24,
+      "joint_angles_file": "trial_024_joint_angles.npy",
+      "cartesian_file": "trial_024_cartesian.npy",
+      "num_steps": 240,
+      "joint_angles_shape": [
+        240,
+        8
+      ],
+      "cartesian_shape": [
+        240,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 25,
+      "joint_angles_file": "trial_025_joint_angles.npy",
+      "cartesian_file": "trial_025_cartesian.npy",
+      "num_steps": 182,
+      "joint_angles_shape": [
+        182,
+        8
+      ],
+      "cartesian_shape": [
+        182,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 26,
+      "joint_angles_file": "trial_026_joint_angles.npy",
+      "cartesian_file": "trial_026_cartesian.npy",
+      "num_steps": 205,
+      "joint_angles_shape": [
+        205,
+        8
+      ],
+      "cartesian_shape": [
+        205,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 27,
+      "joint_angles_file": "trial_027_joint_angles.npy",
+      "cartesian_file": "trial_027_cartesian.npy",
+      "num_steps": 185,
+      "joint_angles_shape": [
+        185,
+        8
+      ],
+      "cartesian_shape": [
+        185,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 28,
+      "joint_angles_file": "trial_028_joint_angles.npy",
+      "cartesian_file": "trial_028_cartesian.npy",
+      "num_steps": 205,
+      "joint_angles_shape": [
+        205,
+        8
+      ],
+      "cartesian_shape": [
+        205,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 29,
+      "joint_angles_file": "trial_029_joint_angles.npy",
+      "cartesian_file": "trial_029_cartesian.npy",
+      "num_steps": 191,
+      "joint_angles_shape": [
+        191,
+        8
+      ],
+      "cartesian_shape": [
+        191,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 30,
+      "joint_angles_file": "trial_030_joint_angles.npy",
+      "cartesian_file": "trial_030_cartesian.npy",
+      "num_steps": 155,
+      "joint_angles_shape": [
+        155,
+        8
+      ],
+      "cartesian_shape": [
+        155,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 31,
+      "joint_angles_file": "trial_031_joint_angles.npy",
+      "cartesian_file": "trial_031_cartesian.npy",
+      "num_steps": 205,
+      "joint_angles_shape": [
+        205,
+        8
+      ],
+      "cartesian_shape": [
+        205,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 32,
+      "joint_angles_file": "trial_032_joint_angles.npy",
+      "cartesian_file": "trial_032_cartesian.npy",
+      "num_steps": 128,
+      "joint_angles_shape": [
+        128,
+        8
+      ],
+      "cartesian_shape": [
+        128,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 33,
+      "joint_angles_file": "trial_033_joint_angles.npy",
+      "cartesian_file": "trial_033_cartesian.npy",
+      "num_steps": 200,
+      "joint_angles_shape": [
+        200,
+        8
+      ],
+      "cartesian_shape": [
+        200,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 34,
+      "joint_angles_file": "trial_034_joint_angles.npy",
+      "cartesian_file": "trial_034_cartesian.npy",
+      "num_steps": 193,
+      "joint_angles_shape": [
+        193,
+        8
+      ],
+      "cartesian_shape": [
+        193,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 35,
+      "joint_angles_file": "trial_035_joint_angles.npy",
+      "cartesian_file": "trial_035_cartesian.npy",
+      "num_steps": 172,
+      "joint_angles_shape": [
+        172,
+        8
+      ],
+      "cartesian_shape": [
+        172,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 36,
+      "joint_angles_file": "trial_036_joint_angles.npy",
+      "cartesian_file": "trial_036_cartesian.npy",
+      "num_steps": 179,
+      "joint_angles_shape": [
+        179,
+        8
+      ],
+      "cartesian_shape": [
+        179,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 37,
+      "joint_angles_file": "trial_037_joint_angles.npy",
+      "cartesian_file": "trial_037_cartesian.npy",
+      "num_steps": 202,
+      "joint_angles_shape": [
+        202,
+        8
+      ],
+      "cartesian_shape": [
+        202,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 38,
+      "joint_angles_file": "trial_038_joint_angles.npy",
+      "cartesian_file": "trial_038_cartesian.npy",
+      "num_steps": 167,
+      "joint_angles_shape": [
+        167,
+        8
+      ],
+      "cartesian_shape": [
+        167,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 39,
+      "joint_angles_file": "trial_039_joint_angles.npy",
+      "cartesian_file": "trial_039_cartesian.npy",
+      "num_steps": 164,
+      "joint_angles_shape": [
+        164,
+        8
+      ],
+      "cartesian_shape": [
+        164,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 40,
+      "joint_angles_file": "trial_040_joint_angles.npy",
+      "cartesian_file": "trial_040_cartesian.npy",
+      "num_steps": 225,
+      "joint_angles_shape": [
+        225,
+        8
+      ],
+      "cartesian_shape": [
+        225,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 41,
+      "joint_angles_file": "trial_041_joint_angles.npy",
+      "cartesian_file": "trial_041_cartesian.npy",
+      "num_steps": 230,
+      "joint_angles_shape": [
+        230,
+        8
+      ],
+      "cartesian_shape": [
+        230,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 42,
+      "joint_angles_file": "trial_042_joint_angles.npy",
+      "cartesian_file": "trial_042_cartesian.npy",
+      "num_steps": 175,
+      "joint_angles_shape": [
+        175,
+        8
+      ],
+      "cartesian_shape": [
+        175,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 43,
+      "joint_angles_file": "trial_043_joint_angles.npy",
+      "cartesian_file": "trial_043_cartesian.npy",
+      "num_steps": 172,
+      "joint_angles_shape": [
+        172,
+        8
+      ],
+      "cartesian_shape": [
+        172,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 44,
+      "joint_angles_file": "trial_044_joint_angles.npy",
+      "cartesian_file": "trial_044_cartesian.npy",
+      "num_steps": 191,
+      "joint_angles_shape": [
+        191,
+        8
+      ],
+      "cartesian_shape": [
+        191,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 45,
+      "joint_angles_file": "trial_045_joint_angles.npy",
+      "cartesian_file": "trial_045_cartesian.npy",
+      "num_steps": 181,
+      "joint_angles_shape": [
+        181,
+        8
+      ],
+      "cartesian_shape": [
+        181,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 46,
+      "joint_angles_file": "trial_046_joint_angles.npy",
+      "cartesian_file": "trial_046_cartesian.npy",
+      "num_steps": 187,
+      "joint_angles_shape": [
+        187,
+        8
+      ],
+      "cartesian_shape": [
+        187,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 47,
+      "joint_angles_file": "trial_047_joint_angles.npy",
+      "cartesian_file": "trial_047_cartesian.npy",
+      "num_steps": 190,
+      "joint_angles_shape": [
+        190,
+        8
+      ],
+      "cartesian_shape": [
+        190,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 48,
+      "joint_angles_file": "trial_048_joint_angles.npy",
+      "cartesian_file": "trial_048_cartesian.npy",
+      "num_steps": 205,
+      "joint_angles_shape": [
+        205,
+        8
+      ],
+      "cartesian_shape": [
+        205,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    },
+    {
+      "trial": 49,
+      "joint_angles_file": "trial_049_joint_angles.npy",
+      "cartesian_file": "trial_049_cartesian.npy",
+      "num_steps": 184,
+      "joint_angles_shape": [
+        184,
+        8
+      ],
+      "cartesian_shape": [
+        184,
+        7
+      ],
+      "descriptions": [
+        "lift toilet seat up",
+        "put the toilet seat up",
+        "leave the lid of the toilet seat in a upright position",
+        "grip the edge of the toilet seat and lift it up to an upright position",
+        "leave the toilet lid open",
+        "raise the toilet seat"
+      ]
+    }
+  ]
+}

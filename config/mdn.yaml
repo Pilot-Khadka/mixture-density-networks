@@ -6,7 +6,7 @@ model:
   dropout: 0.1
 
 training:
-  dataset_root: "rlbench_kinematics_dataset"
+  dataset_root: "data/rlbench_kinematics_dataset/train"
   predict_orientation: false
   batch_size: 512
   num_epochs: 100

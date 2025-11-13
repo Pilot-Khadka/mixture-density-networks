@@ -1,0 +1,1256 @@
+{
+  "task_name": "ToiletSeatDown",
+  "num_trials": 50,
+  "trials": [
+    {
+      "trial": 0,
+      "joint_angles_file": "trial_000_joint_angles.npy",
+      "cartesian_file": "trial_000_cartesian.npy",
+      "num_steps": 141,
+      "joint_angles_shape": [
+        141,
+        8
+      ],
+      "cartesian_shape": [
+        141,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 1,
+      "joint_angles_file": "trial_001_joint_angles.npy",
+      "cartesian_file": "trial_001_cartesian.npy",
+      "num_steps": 136,
+      "joint_angles_shape": [
+        136,
+        8
+      ],
+      "cartesian_shape": [
+        136,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 2,
+      "joint_angles_file": "trial_002_joint_angles.npy",
+      "cartesian_file": "trial_002_cartesian.npy",
+      "num_steps": 136,
+      "joint_angles_shape": [
+        136,
+        8
+      ],
+      "cartesian_shape": [
+        136,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 3,
+      "joint_angles_file": "trial_003_joint_angles.npy",
+      "cartesian_file": "trial_003_cartesian.npy",
+      "num_steps": 113,
+      "joint_angles_shape": [
+        113,
+        8
+      ],
+      "cartesian_shape": [
+        113,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 4,
+      "joint_angles_file": "trial_004_joint_angles.npy",
+      "cartesian_file": "trial_004_cartesian.npy",
+      "num_steps": 107,
+      "joint_angles_shape": [
+        107,
+        8
+      ],
+      "cartesian_shape": [
+        107,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 5,
+      "joint_angles_file": "trial_005_joint_angles.npy",
+      "cartesian_file": "trial_005_cartesian.npy",
+      "num_steps": 83,
+      "joint_angles_shape": [
+        83,
+        8
+      ],
+      "cartesian_shape": [
+        83,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 6,
+      "joint_angles_file": "trial_006_joint_angles.npy",
+      "cartesian_file": "trial_006_cartesian.npy",
+      "num_steps": 112,
+      "joint_angles_shape": [
+        112,
+        8
+      ],
+      "cartesian_shape": [
+        112,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 7,
+      "joint_angles_file": "trial_007_joint_angles.npy",
+      "cartesian_file": "trial_007_cartesian.npy",
+      "num_steps": 131,
+      "joint_angles_shape": [
+        131,
+        8
+      ],
+      "cartesian_shape": [
+        131,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 8,
+      "joint_angles_file": "trial_008_joint_angles.npy",
+      "cartesian_file": "trial_008_cartesian.npy",
+      "num_steps": 114,
+      "joint_angles_shape": [
+        114,
+        8
+      ],
+      "cartesian_shape": [
+        114,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 9,
+      "joint_angles_file": "trial_009_joint_angles.npy",
+      "cartesian_file": "trial_009_cartesian.npy",
+      "num_steps": 107,
+      "joint_angles_shape": [
+        107,
+        8
+      ],
+      "cartesian_shape": [
+        107,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 10,
+      "joint_angles_file": "trial_010_joint_angles.npy",
+      "cartesian_file": "trial_010_cartesian.npy",
+      "num_steps": 89,
+      "joint_angles_shape": [
+        89,
+        8
+      ],
+      "cartesian_shape": [
+        89,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 11,
+      "joint_angles_file": "trial_011_joint_angles.npy",
+      "cartesian_file": "trial_011_cartesian.npy",
+      "num_steps": 115,
+      "joint_angles_shape": [
+        115,
+        8
+      ],
+      "cartesian_shape": [
+        115,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 12,
+      "joint_angles_file": "trial_012_joint_angles.npy",
+      "cartesian_file": "trial_012_cartesian.npy",
+      "num_steps": 114,
+      "joint_angles_shape": [
+        114,
+        8
+      ],
+      "cartesian_shape": [
+        114,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 13,
+      "joint_angles_file": "trial_013_joint_angles.npy",
+      "cartesian_file": "trial_013_cartesian.npy",
+      "num_steps": 137,
+      "joint_angles_shape": [
+        137,
+        8
+      ],
+      "cartesian_shape": [
+        137,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 14,
+      "joint_angles_file": "trial_014_joint_angles.npy",
+      "cartesian_file": "trial_014_cartesian.npy",
+      "num_steps": 130,
+      "joint_angles_shape": [
+        130,
+        8
+      ],
+      "cartesian_shape": [
+        130,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 15,
+      "joint_angles_file": "trial_015_joint_angles.npy",
+      "cartesian_file": "trial_015_cartesian.npy",
+      "num_steps": 142,
+      "joint_angles_shape": [
+        142,
+        8
+      ],
+      "cartesian_shape": [
+        142,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 16,
+      "joint_angles_file": "trial_016_joint_angles.npy",
+      "cartesian_file": "trial_016_cartesian.npy",
+      "num_steps": 127,
+      "joint_angles_shape": [
+        127,
+        8
+      ],
+      "cartesian_shape": [
+        127,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 17,
+      "joint_angles_file": "trial_017_joint_angles.npy",
+      "cartesian_file": "trial_017_cartesian.npy",
+      "num_steps": 101,
+      "joint_angles_shape": [
+        101,
+        8
+      ],
+      "cartesian_shape": [
+        101,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 18,
+      "joint_angles_file": "trial_018_joint_angles.npy",
+      "cartesian_file": "trial_018_cartesian.npy",
+      "num_steps": 112,
+      "joint_angles_shape": [
+        112,
+        8
+      ],
+      "cartesian_shape": [
+        112,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 19,
+      "joint_angles_file": "trial_019_joint_angles.npy",
+      "cartesian_file": "trial_019_cartesian.npy",
+      "num_steps": 111,
+      "joint_angles_shape": [
+        111,
+        8
+      ],
+      "cartesian_shape": [
+        111,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 20,
+      "joint_angles_file": "trial_020_joint_angles.npy",
+      "cartesian_file": "trial_020_cartesian.npy",
+      "num_steps": 89,
+      "joint_angles_shape": [
+        89,
+        8
+      ],
+      "cartesian_shape": [
+        89,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 21,
+      "joint_angles_file": "trial_021_joint_angles.npy",
+      "cartesian_file": "trial_021_cartesian.npy",
+      "num_steps": 116,
+      "joint_angles_shape": [
+        116,
+        8
+      ],
+      "cartesian_shape": [
+        116,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 22,
+      "joint_angles_file": "trial_022_joint_angles.npy",
+      "cartesian_file": "trial_022_cartesian.npy",
+      "num_steps": 119,
+      "joint_angles_shape": [
+        119,
+        8
+      ],
+      "cartesian_shape": [
+        119,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 23,
+      "joint_angles_file": "trial_023_joint_angles.npy",
+      "cartesian_file": "trial_023_cartesian.npy",
+      "num_steps": 107,
+      "joint_angles_shape": [
+        107,
+        8
+      ],
+      "cartesian_shape": [
+        107,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 24,
+      "joint_angles_file": "trial_024_joint_angles.npy",
+      "cartesian_file": "trial_024_cartesian.npy",
+      "num_steps": 128,
+      "joint_angles_shape": [
+        128,
+        8
+      ],
+      "cartesian_shape": [
+        128,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 25,
+      "joint_angles_file": "trial_025_joint_angles.npy",
+      "cartesian_file": "trial_025_cartesian.npy",
+      "num_steps": 93,
+      "joint_angles_shape": [
+        93,
+        8
+      ],
+      "cartesian_shape": [
+        93,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 26,
+      "joint_angles_file": "trial_026_joint_angles.npy",
+      "cartesian_file": "trial_026_cartesian.npy",
+      "num_steps": 99,
+      "joint_angles_shape": [
+        99,
+        8
+      ],
+      "cartesian_shape": [
+        99,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 27,
+      "joint_angles_file": "trial_027_joint_angles.npy",
+      "cartesian_file": "trial_027_cartesian.npy",
+      "num_steps": 113,
+      "joint_angles_shape": [
+        113,
+        8
+      ],
+      "cartesian_shape": [
+        113,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 28,
+      "joint_angles_file": "trial_028_joint_angles.npy",
+      "cartesian_file": "trial_028_cartesian.npy",
+      "num_steps": 106,
+      "joint_angles_shape": [
+        106,
+        8
+      ],
+      "cartesian_shape": [
+        106,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 29,
+      "joint_angles_file": "trial_029_joint_angles.npy",
+      "cartesian_file": "trial_029_cartesian.npy",
+      "num_steps": 105,
+      "joint_angles_shape": [
+        105,
+        8
+      ],
+      "cartesian_shape": [
+        105,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 30,
+      "joint_angles_file": "trial_030_joint_angles.npy",
+      "cartesian_file": "trial_030_cartesian.npy",
+      "num_steps": 107,
+      "joint_angles_shape": [
+        107,
+        8
+      ],
+      "cartesian_shape": [
+        107,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 31,
+      "joint_angles_file": "trial_031_joint_angles.npy",
+      "cartesian_file": "trial_031_cartesian.npy",
+      "num_steps": 126,
+      "joint_angles_shape": [
+        126,
+        8
+      ],
+      "cartesian_shape": [
+        126,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 32,
+      "joint_angles_file": "trial_032_joint_angles.npy",
+      "cartesian_file": "trial_032_cartesian.npy",
+      "num_steps": 133,
+      "joint_angles_shape": [
+        133,
+        8
+      ],
+      "cartesian_shape": [
+        133,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 33,
+      "joint_angles_file": "trial_033_joint_angles.npy",
+      "cartesian_file": "trial_033_cartesian.npy",
+      "num_steps": 131,
+      "joint_angles_shape": [
+        131,
+        8
+      ],
+      "cartesian_shape": [
+        131,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 34,
+      "joint_angles_file": "trial_034_joint_angles.npy",
+      "cartesian_file": "trial_034_cartesian.npy",
+      "num_steps": 93,
+      "joint_angles_shape": [
+        93,
+        8
+      ],
+      "cartesian_shape": [
+        93,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 35,
+      "joint_angles_file": "trial_035_joint_angles.npy",
+      "cartesian_file": "trial_035_cartesian.npy",
+      "num_steps": 97,
+      "joint_angles_shape": [
+        97,
+        8
+      ],
+      "cartesian_shape": [
+        97,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 36,
+      "joint_angles_file": "trial_036_joint_angles.npy",
+      "cartesian_file": "trial_036_cartesian.npy",
+      "num_steps": 114,
+      "joint_angles_shape": [
+        114,
+        8
+      ],
+      "cartesian_shape": [
+        114,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 37,
+      "joint_angles_file": "trial_037_joint_angles.npy",
+      "cartesian_file": "trial_037_cartesian.npy",
+      "num_steps": 109,
+      "joint_angles_shape": [
+        109,
+        8
+      ],
+      "cartesian_shape": [
+        109,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 38,
+      "joint_angles_file": "trial_038_joint_angles.npy",
+      "cartesian_file": "trial_038_cartesian.npy",
+      "num_steps": 113,
+      "joint_angles_shape": [
+        113,
+        8
+      ],
+      "cartesian_shape": [
+        113,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 39,
+      "joint_angles_file": "trial_039_joint_angles.npy",
+      "cartesian_file": "trial_039_cartesian.npy",
+      "num_steps": 104,
+      "joint_angles_shape": [
+        104,
+        8
+      ],
+      "cartesian_shape": [
+        104,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 40,
+      "joint_angles_file": "trial_040_joint_angles.npy",
+      "cartesian_file": "trial_040_cartesian.npy",
+      "num_steps": 86,
+      "joint_angles_shape": [
+        86,
+        8
+      ],
+      "cartesian_shape": [
+        86,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 41,
+      "joint_angles_file": "trial_041_joint_angles.npy",
+      "cartesian_file": "trial_041_cartesian.npy",
+      "num_steps": 106,
+      "joint_angles_shape": [
+        106,
+        8
+      ],
+      "cartesian_shape": [
+        106,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 42,
+      "joint_angles_file": "trial_042_joint_angles.npy",
+      "cartesian_file": "trial_042_cartesian.npy",
+      "num_steps": 114,
+      "joint_angles_shape": [
+        114,
+        8
+      ],
+      "cartesian_shape": [
+        114,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 43,
+      "joint_angles_file": "trial_043_joint_angles.npy",
+      "cartesian_file": "trial_043_cartesian.npy",
+      "num_steps": 79,
+      "joint_angles_shape": [
+        79,
+        8
+      ],
+      "cartesian_shape": [
+        79,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 44,
+      "joint_angles_file": "trial_044_joint_angles.npy",
+      "cartesian_file": "trial_044_cartesian.npy",
+      "num_steps": 114,
+      "joint_angles_shape": [
+        114,
+        8
+      ],
+      "cartesian_shape": [
+        114,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 45,
+      "joint_angles_file": "trial_045_joint_angles.npy",
+      "cartesian_file": "trial_045_cartesian.npy",
+      "num_steps": 114,
+      "joint_angles_shape": [
+        114,
+        8
+      ],
+      "cartesian_shape": [
+        114,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 46,
+      "joint_angles_file": "trial_046_joint_angles.npy",
+      "cartesian_file": "trial_046_cartesian.npy",
+      "num_steps": 83,
+      "joint_angles_shape": [
+        83,
+        8
+      ],
+      "cartesian_shape": [
+        83,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 47,
+      "joint_angles_file": "trial_047_joint_angles.npy",
+      "cartesian_file": "trial_047_cartesian.npy",
+      "num_steps": 154,
+      "joint_angles_shape": [
+        154,
+        8
+      ],
+      "cartesian_shape": [
+        154,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 48,
+      "joint_angles_file": "trial_048_joint_angles.npy",
+      "cartesian_file": "trial_048_cartesian.npy",
+      "num_steps": 133,
+      "joint_angles_shape": [
+        133,
+        8
+      ],
+      "cartesian_shape": [
+        133,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    },
+    {
+      "trial": 49,
+      "joint_angles_file": "trial_049_joint_angles.npy",
+      "cartesian_file": "trial_049_cartesian.npy",
+      "num_steps": 92,
+      "joint_angles_shape": [
+        92,
+        8
+      ],
+      "cartesian_shape": [
+        92,
+        7
+      ],
+      "descriptions": [
+        "toilet seat down",
+        "put the toilet seat down",
+        "grasping the top of the lid, close the toilet seat",
+        "put the toilet lid down",
+        "leave the toilet seat down",
+        "close the lid on the toilet",
+        "leave the toilet seat down",
+        "lower the toilet seat",
+        "grip the edge of the toilet lid and lower it flat on the toilet seat"
+      ]
+    }
+  ]
+}

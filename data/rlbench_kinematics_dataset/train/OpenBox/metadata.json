@@ -1,0 +1,1006 @@
+{
+  "task_name": "OpenBox",
+  "num_trials": 50,
+  "trials": [
+    {
+      "trial": 0,
+      "joint_angles_file": "trial_000_joint_angles.npy",
+      "cartesian_file": "trial_000_cartesian.npy",
+      "num_steps": 161,
+      "joint_angles_shape": [
+        161,
+        8
+      ],
+      "cartesian_shape": [
+        161,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 1,
+      "joint_angles_file": "trial_001_joint_angles.npy",
+      "cartesian_file": "trial_001_cartesian.npy",
+      "num_steps": 136,
+      "joint_angles_shape": [
+        136,
+        8
+      ],
+      "cartesian_shape": [
+        136,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 2,
+      "joint_angles_file": "trial_002_joint_angles.npy",
+      "cartesian_file": "trial_002_cartesian.npy",
+      "num_steps": 145,
+      "joint_angles_shape": [
+        145,
+        8
+      ],
+      "cartesian_shape": [
+        145,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 3,
+      "joint_angles_file": "trial_003_joint_angles.npy",
+      "cartesian_file": "trial_003_cartesian.npy",
+      "num_steps": 145,
+      "joint_angles_shape": [
+        145,
+        8
+      ],
+      "cartesian_shape": [
+        145,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 4,
+      "joint_angles_file": "trial_004_joint_angles.npy",
+      "cartesian_file": "trial_004_cartesian.npy",
+      "num_steps": 144,
+      "joint_angles_shape": [
+        144,
+        8
+      ],
+      "cartesian_shape": [
+        144,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 5,
+      "joint_angles_file": "trial_005_joint_angles.npy",
+      "cartesian_file": "trial_005_cartesian.npy",
+      "num_steps": 163,
+      "joint_angles_shape": [
+        163,
+        8
+      ],
+      "cartesian_shape": [
+        163,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 6,
+      "joint_angles_file": "trial_006_joint_angles.npy",
+      "cartesian_file": "trial_006_cartesian.npy",
+      "num_steps": 142,
+      "joint_angles_shape": [
+        142,
+        8
+      ],
+      "cartesian_shape": [
+        142,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 7,
+      "joint_angles_file": "trial_007_joint_angles.npy",
+      "cartesian_file": "trial_007_cartesian.npy",
+      "num_steps": 148,
+      "joint_angles_shape": [
+        148,
+        8
+      ],
+      "cartesian_shape": [
+        148,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 8,
+      "joint_angles_file": "trial_008_joint_angles.npy",
+      "cartesian_file": "trial_008_cartesian.npy",
+      "num_steps": 169,
+      "joint_angles_shape": [
+        169,
+        8
+      ],
+      "cartesian_shape": [
+        169,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 9,
+      "joint_angles_file": "trial_009_joint_angles.npy",
+      "cartesian_file": "trial_009_cartesian.npy",
+      "num_steps": 155,
+      "joint_angles_shape": [
+        155,
+        8
+      ],
+      "cartesian_shape": [
+        155,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 10,
+      "joint_angles_file": "trial_010_joint_angles.npy",
+      "cartesian_file": "trial_010_cartesian.npy",
+      "num_steps": 151,
+      "joint_angles_shape": [
+        151,
+        8
+      ],
+      "cartesian_shape": [
+        151,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 11,
+      "joint_angles_file": "trial_011_joint_angles.npy",
+      "cartesian_file": "trial_011_cartesian.npy",
+      "num_steps": 190,
+      "joint_angles_shape": [
+        190,
+        8
+      ],
+      "cartesian_shape": [
+        190,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 12,
+      "joint_angles_file": "trial_012_joint_angles.npy",
+      "cartesian_file": "trial_012_cartesian.npy",
+      "num_steps": 162,
+      "joint_angles_shape": [
+        162,
+        8
+      ],
+      "cartesian_shape": [
+        162,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 13,
+      "joint_angles_file": "trial_013_joint_angles.npy",
+      "cartesian_file": "trial_013_cartesian.npy",
+      "num_steps": 150,
+      "joint_angles_shape": [
+        150,
+        8
+      ],
+      "cartesian_shape": [
+        150,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 14,
+      "joint_angles_file": "trial_014_joint_angles.npy",
+      "cartesian_file": "trial_014_cartesian.npy",
+      "num_steps": 158,
+      "joint_angles_shape": [
+        158,
+        8
+      ],
+      "cartesian_shape": [
+        158,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 15,
+      "joint_angles_file": "trial_015_joint_angles.npy",
+      "cartesian_file": "trial_015_cartesian.npy",
+      "num_steps": 139,
+      "joint_angles_shape": [
+        139,
+        8
+      ],
+      "cartesian_shape": [
+        139,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 16,
+      "joint_angles_file": "trial_016_joint_angles.npy",
+      "cartesian_file": "trial_016_cartesian.npy",
+      "num_steps": 143,
+      "joint_angles_shape": [
+        143,
+        8
+      ],
+      "cartesian_shape": [
+        143,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 17,
+      "joint_angles_file": "trial_017_joint_angles.npy",
+      "cartesian_file": "trial_017_cartesian.npy",
+      "num_steps": 138,
+      "joint_angles_shape": [
+        138,
+        8
+      ],
+      "cartesian_shape": [
+        138,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 18,
+      "joint_angles_file": "trial_018_joint_angles.npy",
+      "cartesian_file": "trial_018_cartesian.npy",
+      "num_steps": 202,
+      "joint_angles_shape": [
+        202,
+        8
+      ],
+      "cartesian_shape": [
+        202,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 19,
+      "joint_angles_file": "trial_019_joint_angles.npy",
+      "cartesian_file": "trial_019_cartesian.npy",
+      "num_steps": 141,
+      "joint_angles_shape": [
+        141,
+        8
+      ],
+      "cartesian_shape": [
+        141,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 20,
+      "joint_angles_file": "trial_020_joint_angles.npy",
+      "cartesian_file": "trial_020_cartesian.npy",
+      "num_steps": 143,
+      "joint_angles_shape": [
+        143,
+        8
+      ],
+      "cartesian_shape": [
+        143,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 21,
+      "joint_angles_file": "trial_021_joint_angles.npy",
+      "cartesian_file": "trial_021_cartesian.npy",
+      "num_steps": 160,
+      "joint_angles_shape": [
+        160,
+        8
+      ],
+      "cartesian_shape": [
+        160,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 22,
+      "joint_angles_file": "trial_022_joint_angles.npy",
+      "cartesian_file": "trial_022_cartesian.npy",
+      "num_steps": 140,
+      "joint_angles_shape": [
+        140,
+        8
+      ],
+      "cartesian_shape": [
+        140,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 23,
+      "joint_angles_file": "trial_023_joint_angles.npy",
+      "cartesian_file": "trial_023_cartesian.npy",
+      "num_steps": 148,
+      "joint_angles_shape": [
+        148,
+        8
+      ],
+      "cartesian_shape": [
+        148,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 24,
+      "joint_angles_file": "trial_024_joint_angles.npy",
+      "cartesian_file": "trial_024_cartesian.npy",
+      "num_steps": 152,
+      "joint_angles_shape": [
+        152,
+        8
+      ],
+      "cartesian_shape": [
+        152,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 25,
+      "joint_angles_file": "trial_025_joint_angles.npy",
+      "cartesian_file": "trial_025_cartesian.npy",
+      "num_steps": 187,
+      "joint_angles_shape": [
+        187,
+        8
+      ],
+      "cartesian_shape": [
+        187,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 26,
+      "joint_angles_file": "trial_026_joint_angles.npy",
+      "cartesian_file": "trial_026_cartesian.npy",
+      "num_steps": 153,
+      "joint_angles_shape": [
+        153,
+        8
+      ],
+      "cartesian_shape": [
+        153,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 27,
+      "joint_angles_file": "trial_027_joint_angles.npy",
+      "cartesian_file": "trial_027_cartesian.npy",
+      "num_steps": 145,
+      "joint_angles_shape": [
+        145,
+        8
+      ],
+      "cartesian_shape": [
+        145,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 28,
+      "joint_angles_file": "trial_028_joint_angles.npy",
+      "cartesian_file": "trial_028_cartesian.npy",
+      "num_steps": 138,
+      "joint_angles_shape": [
+        138,
+        8
+      ],
+      "cartesian_shape": [
+        138,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 29,
+      "joint_angles_file": "trial_029_joint_angles.npy",
+      "cartesian_file": "trial_029_cartesian.npy",
+      "num_steps": 136,
+      "joint_angles_shape": [
+        136,
+        8
+      ],
+      "cartesian_shape": [
+        136,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 30,
+      "joint_angles_file": "trial_030_joint_angles.npy",
+      "cartesian_file": "trial_030_cartesian.npy",
+      "num_steps": 170,
+      "joint_angles_shape": [
+        170,
+        8
+      ],
+      "cartesian_shape": [
+        170,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 31,
+      "joint_angles_file": "trial_031_joint_angles.npy",
+      "cartesian_file": "trial_031_cartesian.npy",
+      "num_steps": 151,
+      "joint_angles_shape": [
+        151,
+        8
+      ],
+      "cartesian_shape": [
+        151,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 32,
+      "joint_angles_file": "trial_032_joint_angles.npy",
+      "cartesian_file": "trial_032_cartesian.npy",
+      "num_steps": 151,
+      "joint_angles_shape": [
+        151,
+        8
+      ],
+      "cartesian_shape": [
+        151,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 33,
+      "joint_angles_file": "trial_033_joint_angles.npy",
+      "cartesian_file": "trial_033_cartesian.npy",
+      "num_steps": 154,
+      "joint_angles_shape": [
+        154,
+        8
+      ],
+      "cartesian_shape": [
+        154,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 34,
+      "joint_angles_file": "trial_034_joint_angles.npy",
+      "cartesian_file": "trial_034_cartesian.npy",
+      "num_steps": 140,
+      "joint_angles_shape": [
+        140,
+        8
+      ],
+      "cartesian_shape": [
+        140,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 35,
+      "joint_angles_file": "trial_035_joint_angles.npy",
+      "cartesian_file": "trial_035_cartesian.npy",
+      "num_steps": 143,
+      "joint_angles_shape": [
+        143,
+        8
+      ],
+      "cartesian_shape": [
+        143,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 36,
+      "joint_angles_file": "trial_036_joint_angles.npy",
+      "cartesian_file": "trial_036_cartesian.npy",
+      "num_steps": 197,
+      "joint_angles_shape": [
+        197,
+        8
+      ],
+      "cartesian_shape": [
+        197,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 37,
+      "joint_angles_file": "trial_037_joint_angles.npy",
+      "cartesian_file": "trial_037_cartesian.npy",
+      "num_steps": 138,
+      "joint_angles_shape": [
+        138,
+        8
+      ],
+      "cartesian_shape": [
+        138,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 38,
+      "joint_angles_file": "trial_038_joint_angles.npy",
+      "cartesian_file": "trial_038_cartesian.npy",
+      "num_steps": 138,
+      "joint_angles_shape": [
+        138,
+        8
+      ],
+      "cartesian_shape": [
+        138,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 39,
+      "joint_angles_file": "trial_039_joint_angles.npy",
+      "cartesian_file": "trial_039_cartesian.npy",
+      "num_steps": 172,
+      "joint_angles_shape": [
+        172,
+        8
+      ],
+      "cartesian_shape": [
+        172,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 40,
+      "joint_angles_file": "trial_040_joint_angles.npy",
+      "cartesian_file": "trial_040_cartesian.npy",
+      "num_steps": 152,
+      "joint_angles_shape": [
+        152,
+        8
+      ],
+      "cartesian_shape": [
+        152,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 41,
+      "joint_angles_file": "trial_041_joint_angles.npy",
+      "cartesian_file": "trial_041_cartesian.npy",
+      "num_steps": 174,
+      "joint_angles_shape": [
+        174,
+        8
+      ],
+      "cartesian_shape": [
+        174,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 42,
+      "joint_angles_file": "trial_042_joint_angles.npy",
+      "cartesian_file": "trial_042_cartesian.npy",
+      "num_steps": 154,
+      "joint_angles_shape": [
+        154,
+        8
+      ],
+      "cartesian_shape": [
+        154,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 43,
+      "joint_angles_file": "trial_043_joint_angles.npy",
+      "cartesian_file": "trial_043_cartesian.npy",
+      "num_steps": 141,
+      "joint_angles_shape": [
+        141,
+        8
+      ],
+      "cartesian_shape": [
+        141,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 44,
+      "joint_angles_file": "trial_044_joint_angles.npy",
+      "cartesian_file": "trial_044_cartesian.npy",
+      "num_steps": 143,
+      "joint_angles_shape": [
+        143,
+        8
+      ],
+      "cartesian_shape": [
+        143,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 45,
+      "joint_angles_file": "trial_045_joint_angles.npy",
+      "cartesian_file": "trial_045_cartesian.npy",
+      "num_steps": 169,
+      "joint_angles_shape": [
+        169,
+        8
+      ],
+      "cartesian_shape": [
+        169,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 46,
+      "joint_angles_file": "trial_046_joint_angles.npy",
+      "cartesian_file": "trial_046_cartesian.npy",
+      "num_steps": 136,
+      "joint_angles_shape": [
+        136,
+        8
+      ],
+      "cartesian_shape": [
+        136,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 47,
+      "joint_angles_file": "trial_047_joint_angles.npy",
+      "cartesian_file": "trial_047_cartesian.npy",
+      "num_steps": 161,
+      "joint_angles_shape": [
+        161,
+        8
+      ],
+      "cartesian_shape": [
+        161,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 48,
+      "joint_angles_file": "trial_048_joint_angles.npy",
+      "cartesian_file": "trial_048_cartesian.npy",
+      "num_steps": 135,
+      "joint_angles_shape": [
+        135,
+        8
+      ],
+      "cartesian_shape": [
+        135,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    },
+    {
+      "trial": 49,
+      "joint_angles_file": "trial_049_joint_angles.npy",
+      "cartesian_file": "trial_049_cartesian.npy",
+      "num_steps": 148,
+      "joint_angles_shape": [
+        148,
+        8
+      ],
+      "cartesian_shape": [
+        148,
+        7
+      ],
+      "descriptions": [
+        "open box",
+        "open the box lid",
+        "open the box",
+        "grasp the lid and open the box"
+      ]
+    }
+  ]
+}

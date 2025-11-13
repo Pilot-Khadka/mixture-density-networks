@@ -1,0 +1,1106 @@
+{
+  "task_name": "UnplugCharger",
+  "num_trials": 50,
+  "trials": [
+    {
+      "trial": 0,
+      "joint_angles_file": "trial_000_joint_angles.npy",
+      "cartesian_file": "trial_000_cartesian.npy",
+      "num_steps": 128,
+      "joint_angles_shape": [
+        128,
+        8
+      ],
+      "cartesian_shape": [
+        128,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 1,
+      "joint_angles_file": "trial_001_joint_angles.npy",
+      "cartesian_file": "trial_001_cartesian.npy",
+      "num_steps": 192,
+      "joint_angles_shape": [
+        192,
+        8
+      ],
+      "cartesian_shape": [
+        192,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 2,
+      "joint_angles_file": "trial_002_joint_angles.npy",
+      "cartesian_file": "trial_002_cartesian.npy",
+      "num_steps": 78,
+      "joint_angles_shape": [
+        78,
+        8
+      ],
+      "cartesian_shape": [
+        78,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 3,
+      "joint_angles_file": "trial_003_joint_angles.npy",
+      "cartesian_file": "trial_003_cartesian.npy",
+      "num_steps": 91,
+      "joint_angles_shape": [
+        91,
+        8
+      ],
+      "cartesian_shape": [
+        91,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 4,
+      "joint_angles_file": "trial_004_joint_angles.npy",
+      "cartesian_file": "trial_004_cartesian.npy",
+      "num_steps": 93,
+      "joint_angles_shape": [
+        93,
+        8
+      ],
+      "cartesian_shape": [
+        93,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 5,
+      "joint_angles_file": "trial_005_joint_angles.npy",
+      "cartesian_file": "trial_005_cartesian.npy",
+      "num_steps": 125,
+      "joint_angles_shape": [
+        125,
+        8
+      ],
+      "cartesian_shape": [
+        125,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 6,
+      "joint_angles_file": "trial_006_joint_angles.npy",
+      "cartesian_file": "trial_006_cartesian.npy",
+      "num_steps": 90,
+      "joint_angles_shape": [
+        90,
+        8
+      ],
+      "cartesian_shape": [
+        90,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 7,
+      "joint_angles_file": "trial_007_joint_angles.npy",
+      "cartesian_file": "trial_007_cartesian.npy",
+      "num_steps": 121,
+      "joint_angles_shape": [
+        121,
+        8
+      ],
+      "cartesian_shape": [
+        121,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 8,
+      "joint_angles_file": "trial_008_joint_angles.npy",
+      "cartesian_file": "trial_008_cartesian.npy",
+      "num_steps": 91,
+      "joint_angles_shape": [
+        91,
+        8
+      ],
+      "cartesian_shape": [
+        91,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 9,
+      "joint_angles_file": "trial_009_joint_angles.npy",
+      "cartesian_file": "trial_009_cartesian.npy",
+      "num_steps": 101,
+      "joint_angles_shape": [
+        101,
+        8
+      ],
+      "cartesian_shape": [
+        101,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 10,
+      "joint_angles_file": "trial_010_joint_angles.npy",
+      "cartesian_file": "trial_010_cartesian.npy",
+      "num_steps": 96,
+      "joint_angles_shape": [
+        96,
+        8
+      ],
+      "cartesian_shape": [
+        96,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 11,
+      "joint_angles_file": "trial_011_joint_angles.npy",
+      "cartesian_file": "trial_011_cartesian.npy",
+      "num_steps": 91,
+      "joint_angles_shape": [
+        91,
+        8
+      ],
+      "cartesian_shape": [
+        91,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 12,
+      "joint_angles_file": "trial_012_joint_angles.npy",
+      "cartesian_file": "trial_012_cartesian.npy",
+      "num_steps": 85,
+      "joint_angles_shape": [
+        85,
+        8
+      ],
+      "cartesian_shape": [
+        85,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 13,
+      "joint_angles_file": "trial_013_joint_angles.npy",
+      "cartesian_file": "trial_013_cartesian.npy",
+      "num_steps": 103,
+      "joint_angles_shape": [
+        103,
+        8
+      ],
+      "cartesian_shape": [
+        103,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 14,
+      "joint_angles_file": "trial_014_joint_angles.npy",
+      "cartesian_file": "trial_014_cartesian.npy",
+      "num_steps": 108,
+      "joint_angles_shape": [
+        108,
+        8
+      ],
+      "cartesian_shape": [
+        108,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 15,
+      "joint_angles_file": "trial_015_joint_angles.npy",
+      "cartesian_file": "trial_015_cartesian.npy",
+      "num_steps": 99,
+      "joint_angles_shape": [
+        99,
+        8
+      ],
+      "cartesian_shape": [
+        99,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 16,
+      "joint_angles_file": "trial_016_joint_angles.npy",
+      "cartesian_file": "trial_016_cartesian.npy",
+      "num_steps": 196,
+      "joint_angles_shape": [
+        196,
+        8
+      ],
+      "cartesian_shape": [
+        196,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 17,
+      "joint_angles_file": "trial_017_joint_angles.npy",
+      "cartesian_file": "trial_017_cartesian.npy",
+      "num_steps": 120,
+      "joint_angles_shape": [
+        120,
+        8
+      ],
+      "cartesian_shape": [
+        120,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 18,
+      "joint_angles_file": "trial_018_joint_angles.npy",
+      "cartesian_file": "trial_018_cartesian.npy",
+      "num_steps": 116,
+      "joint_angles_shape": [
+        116,
+        8
+      ],
+      "cartesian_shape": [
+        116,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 19,
+      "joint_angles_file": "trial_019_joint_angles.npy",
+      "cartesian_file": "trial_019_cartesian.npy",
+      "num_steps": 90,
+      "joint_angles_shape": [
+        90,
+        8
+      ],
+      "cartesian_shape": [
+        90,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 20,
+      "joint_angles_file": "trial_020_joint_angles.npy",
+      "cartesian_file": "trial_020_cartesian.npy",
+      "num_steps": 120,
+      "joint_angles_shape": [
+        120,
+        8
+      ],
+      "cartesian_shape": [
+        120,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 21,
+      "joint_angles_file": "trial_021_joint_angles.npy",
+      "cartesian_file": "trial_021_cartesian.npy",
+      "num_steps": 85,
+      "joint_angles_shape": [
+        85,
+        8
+      ],
+      "cartesian_shape": [
+        85,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 22,
+      "joint_angles_file": "trial_022_joint_angles.npy",
+      "cartesian_file": "trial_022_cartesian.npy",
+      "num_steps": 91,
+      "joint_angles_shape": [
+        91,
+        8
+      ],
+      "cartesian_shape": [
+        91,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 23,
+      "joint_angles_file": "trial_023_joint_angles.npy",
+      "cartesian_file": "trial_023_cartesian.npy",
+      "num_steps": 96,
+      "joint_angles_shape": [
+        96,
+        8
+      ],
+      "cartesian_shape": [
+        96,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 24,
+      "joint_angles_file": "trial_024_joint_angles.npy",
+      "cartesian_file": "trial_024_cartesian.npy",
+      "num_steps": 93,
+      "joint_angles_shape": [
+        93,
+        8
+      ],
+      "cartesian_shape": [
+        93,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 25,
+      "joint_angles_file": "trial_025_joint_angles.npy",
+      "cartesian_file": "trial_025_cartesian.npy",
+      "num_steps": 86,
+      "joint_angles_shape": [
+        86,
+        8
+      ],
+      "cartesian_shape": [
+        86,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 26,
+      "joint_angles_file": "trial_026_joint_angles.npy",
+      "cartesian_file": "trial_026_cartesian.npy",
+      "num_steps": 92,
+      "joint_angles_shape": [
+        92,
+        8
+      ],
+      "cartesian_shape": [
+        92,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 27,
+      "joint_angles_file": "trial_027_joint_angles.npy",
+      "cartesian_file": "trial_027_cartesian.npy",
+      "num_steps": 108,
+      "joint_angles_shape": [
+        108,
+        8
+      ],
+      "cartesian_shape": [
+        108,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 28,
+      "joint_angles_file": "trial_028_joint_angles.npy",
+      "cartesian_file": "trial_028_cartesian.npy",
+      "num_steps": 85,
+      "joint_angles_shape": [
+        85,
+        8
+      ],
+      "cartesian_shape": [
+        85,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 29,
+      "joint_angles_file": "trial_029_joint_angles.npy",
+      "cartesian_file": "trial_029_cartesian.npy",
+      "num_steps": 120,
+      "joint_angles_shape": [
+        120,
+        8
+      ],
+      "cartesian_shape": [
+        120,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 30,
+      "joint_angles_file": "trial_030_joint_angles.npy",
+      "cartesian_file": "trial_030_cartesian.npy",
+      "num_steps": 173,
+      "joint_angles_shape": [
+        173,
+        8
+      ],
+      "cartesian_shape": [
+        173,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 31,
+      "joint_angles_file": "trial_031_joint_angles.npy",
+      "cartesian_file": "trial_031_cartesian.npy",
+      "num_steps": 86,
+      "joint_angles_shape": [
+        86,
+        8
+      ],
+      "cartesian_shape": [
+        86,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 32,
+      "joint_angles_file": "trial_032_joint_angles.npy",
+      "cartesian_file": "trial_032_cartesian.npy",
+      "num_steps": 113,
+      "joint_angles_shape": [
+        113,
+        8
+      ],
+      "cartesian_shape": [
+        113,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 33,
+      "joint_angles_file": "trial_033_joint_angles.npy",
+      "cartesian_file": "trial_033_cartesian.npy",
+      "num_steps": 98,
+      "joint_angles_shape": [
+        98,
+        8
+      ],
+      "cartesian_shape": [
+        98,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 34,
+      "joint_angles_file": "trial_034_joint_angles.npy",
+      "cartesian_file": "trial_034_cartesian.npy",
+      "num_steps": 123,
+      "joint_angles_shape": [
+        123,
+        8
+      ],
+      "cartesian_shape": [
+        123,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 35,
+      "joint_angles_file": "trial_035_joint_angles.npy",
+      "cartesian_file": "trial_035_cartesian.npy",
+      "num_steps": 101,
+      "joint_angles_shape": [
+        101,
+        8
+      ],
+      "cartesian_shape": [
+        101,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 36,
+      "joint_angles_file": "trial_036_joint_angles.npy",
+      "cartesian_file": "trial_036_cartesian.npy",
+      "num_steps": 118,
+      "joint_angles_shape": [
+        118,
+        8
+      ],
+      "cartesian_shape": [
+        118,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 37,
+      "joint_angles_file": "trial_037_joint_angles.npy",
+      "cartesian_file": "trial_037_cartesian.npy",
+      "num_steps": 95,
+      "joint_angles_shape": [
+        95,
+        8
+      ],
+      "cartesian_shape": [
+        95,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 38,
+      "joint_angles_file": "trial_038_joint_angles.npy",
+      "cartesian_file": "trial_038_cartesian.npy",
+      "num_steps": 114,
+      "joint_angles_shape": [
+        114,
+        8
+      ],
+      "cartesian_shape": [
+        114,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 39,
+      "joint_angles_file": "trial_039_joint_angles.npy",
+      "cartesian_file": "trial_039_cartesian.npy",
+      "num_steps": 82,
+      "joint_angles_shape": [
+        82,
+        8
+      ],
+      "cartesian_shape": [
+        82,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 40,
+      "joint_angles_file": "trial_040_joint_angles.npy",
+      "cartesian_file": "trial_040_cartesian.npy",
+      "num_steps": 100,
+      "joint_angles_shape": [
+        100,
+        8
+      ],
+      "cartesian_shape": [
+        100,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 41,
+      "joint_angles_file": "trial_041_joint_angles.npy",
+      "cartesian_file": "trial_041_cartesian.npy",
+      "num_steps": 86,
+      "joint_angles_shape": [
+        86,
+        8
+      ],
+      "cartesian_shape": [
+        86,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 42,
+      "joint_angles_file": "trial_042_joint_angles.npy",
+      "cartesian_file": "trial_042_cartesian.npy",
+      "num_steps": 98,
+      "joint_angles_shape": [
+        98,
+        8
+      ],
+      "cartesian_shape": [
+        98,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 43,
+      "joint_angles_file": "trial_043_joint_angles.npy",
+      "cartesian_file": "trial_043_cartesian.npy",
+      "num_steps": 88,
+      "joint_angles_shape": [
+        88,
+        8
+      ],
+      "cartesian_shape": [
+        88,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 44,
+      "joint_angles_file": "trial_044_joint_angles.npy",
+      "cartesian_file": "trial_044_cartesian.npy",
+      "num_steps": 99,
+      "joint_angles_shape": [
+        99,
+        8
+      ],
+      "cartesian_shape": [
+        99,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 45,
+      "joint_angles_file": "trial_045_joint_angles.npy",
+      "cartesian_file": "trial_045_cartesian.npy",
+      "num_steps": 95,
+      "joint_angles_shape": [
+        95,
+        8
+      ],
+      "cartesian_shape": [
+        95,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 46,
+      "joint_angles_file": "trial_046_joint_angles.npy",
+      "cartesian_file": "trial_046_cartesian.npy",
+      "num_steps": 90,
+      "joint_angles_shape": [
+        90,
+        8
+      ],
+      "cartesian_shape": [
+        90,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 47,
+      "joint_angles_file": "trial_047_joint_angles.npy",
+      "cartesian_file": "trial_047_cartesian.npy",
+      "num_steps": 112,
+      "joint_angles_shape": [
+        112,
+        8
+      ],
+      "cartesian_shape": [
+        112,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 48,
+      "joint_angles_file": "trial_048_joint_angles.npy",
+      "cartesian_file": "trial_048_cartesian.npy",
+      "num_steps": 88,
+      "joint_angles_shape": [
+        88,
+        8
+      ],
+      "cartesian_shape": [
+        88,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    },
+    {
+      "trial": 49,
+      "joint_angles_file": "trial_049_joint_angles.npy",
+      "cartesian_file": "trial_049_cartesian.npy",
+      "num_steps": 129,
+      "joint_angles_shape": [
+        129,
+        8
+      ],
+      "cartesian_shape": [
+        129,
+        7
+      ],
+      "descriptions": [
+        "unplug charger",
+        "take the charger out of the wall",
+        "grip the black charger and pull it out of its socket",
+        "slide the plug out from the wall",
+        "remove the charger from the mains",
+        "get the charger from the wall plug"
+      ]
+    }
+  ]
+}

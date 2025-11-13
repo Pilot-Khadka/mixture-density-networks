@@ -1,5 +1,6 @@
 import os
 import json
+import random
 import numpy as np
 from tqdm import tqdm
 from rlbench.action_modes.action_mode import MoveArmThenGripper
@@ -14,6 +15,7 @@ HEADLESS = True
 TASK_SET = MT15_V1
 OUTPUT_ROOT = "rlbench_kinematics_dataset"
 NUM_TRIALS_PER_TASK = 50
+SEED = 42
 
 
 def setup_env():
@@ -47,11 +49,9 @@ def collect_for_task(env, task_class, num_trials, out_folder):
     task = env.get_task(task_class)
     os.makedirs(out_folder, exist_ok=True)
 
-    print(f"\nCollecting for {task_class.__name__}")
     iterator = tqdm(
         range(num_trials), desc=f"{task_class.__name__}", disable=not HEADLESS
     )
-
     metadata_list = []
 
     for trial in iterator:
@@ -67,20 +67,16 @@ def collect_for_task(env, task_class, num_trials, out_folder):
             continue
 
         demo = demos[0]
-        joint_angles_list = []
-        cartesian_coords_list = []
+        joint_angles_list, cartesian_coords_list = [], []
 
         for obs in demo:
             jp = getattr(obs, "joint_positions", None)
             gp = getattr(obs, "gripper_pose", None)
-
             if jp is None or gp is None:
                 continue
 
             gr = float(obs.gripper_open)
-
             joint_angles_list.append(np.concatenate([jp, [gr]]))
-
             cartesian_coords_list.append(gp)
 
         if not joint_angles_list or not cartesian_coords_list:
@@ -93,9 +89,9 @@ def collect_for_task(env, task_class, num_trials, out_folder):
         cartesian_coords_arr = np.array(cartesian_coords_list, dtype=np.float32)
 
         joint_angles_file = f"trial_{trial:03d}_joint_angles.npy"
-        np.save(os.path.join(out_folder, joint_angles_file), joint_angles_arr)
-
         cartesian_file = f"trial_{trial:03d}_cartesian.npy"
+
+        np.save(os.path.join(out_folder, joint_angles_file), joint_angles_arr)
         np.save(os.path.join(out_folder, cartesian_file), cartesian_coords_arr)
 
         metadata_list.append(
@@ -122,20 +118,28 @@ def collect_for_task(env, task_class, num_trials, out_folder):
             indent=2,
         )
 
-    print(f"Saved metadata for {task_class.__name__} to {metadata_path}")
-
 
 def collect_dataset(num_trials=NUM_TRIALS_PER_TASK):
     env = setup_env()
-    train_tasks = TASK_SET["train"]
-    valid_tasks = verify_tasks(env, train_tasks)
 
-    print(f"Valid tasks: {[t.__name__ for t in valid_tasks]}")
+    all_tasks = TASK_SET["train"]
+    available_tasks = verify_tasks(env, all_tasks)
 
-    outer = tqdm(valid_tasks, desc="Tasks progress", disable=not HEADLESS)
-    for task_cls in outer:
-        out = os.path.join(OUTPUT_ROOT, task_cls.__name__)
-        collect_for_task(env, task_cls, num_trials, out)
+    random.seed(SEED)
+    random.shuffle(available_tasks)
+
+    split_index = int(0.8 * len(available_tasks))
+    train_tasks = available_tasks[:split_index]
+    val_tasks = available_tasks[split_index:]
+
+    for subset_name, task_list in [("train", train_tasks), ("validation", val_tasks)]:
+        subset_root = os.path.join(OUTPUT_ROOT, subset_name)
+        os.makedirs(subset_root, exist_ok=True)
+
+        outer = tqdm(task_list, desc=f"{subset_name} tasks", disable=not HEADLESS)
+        for task_cls in outer:
+            out_folder = os.path.join(subset_root, task_cls.__name__)
+            collect_for_task(env, task_cls, num_trials, out_folder)
 
     env.shutdown()
 
