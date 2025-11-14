@@ -1,6 +1,7 @@
 # Mixture Density Network for Robot Forward Kinematics
 
 A PyTorch implementation of Mixture Density Networks (MDN) and standard Multi-Layer Perceptrons (MLP) for learning forward kinematics of robotic manipulators. This project demonstrates how MDNs can model the inherent uncertainty in robotic systems by learning probability distributions over end-effector positions rather than point estimates.
+
 ![](assets/open_fridge.gif)
 
 ## Table of Contents
