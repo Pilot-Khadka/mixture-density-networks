@@ -347,10 +347,10 @@ if __name__ == "__main__":
         model,
         model_name=args.model,
         train_dataset_root=training_cfg.get(
-            "train_dataset_root", "data/rlbench_kinematics_dataset/train/"
+            "train_dataset_root", "rlbench_kinematics_dataset/train/"
         ),
         val_dataset_root=training_cfg.get(
-            "val_dataset_root", "data/rlbench_kinematics_dataset/validation/"
+            "val_dataset_root", "rlbench_kinematics_dataset/validation/"
         ),
         predict_orientation=training_cfg["predict_orientation"],
         batch_size=training_cfg["batch_size"],

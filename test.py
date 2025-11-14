@@ -386,7 +386,7 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Using device: {device}")
 
-    test_dataset_root = "data/rlbench_kinematics_dataset/validation/"
+    test_dataset_root = "rlbench_kinematics_dataset/validation/"
 
     if not os.path.exists(test_dataset_root):
         print(f"Error: Test dataset not found at {test_dataset_root}")

@@ -1,0 +1,13 @@
+[project]
+name = "mixture-density-networks"
+version = "0.1.0"
+description = "This repo compares the performance of mlp and mdn on forward kinematics task"
+readme = "README.md"
+requires-python = ">=3.10.18"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "numpy>=2.2.6",
+    "pyyaml>=6.0.3",
+    "torch>=2.9.1",
+    "tqdm>=4.67.1",
+]
